@@ -1,0 +1,29 @@
+{
+  "name": "zombie-craft-with-nei",
+  "displayName": "Zombie Craft With NEI",
+  "url": "https://dl.dropboxusercontent.com/u/143733744/zombiecraft1.0.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/zombie-craft-with-nei.335645",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.6.4",
+  "version": "1.0",
+  "description": "this mod pack has a base mod of zombie craft.  this pack was designed for my server donoskyblock.no-ip.biz. - made by donoFan",
+  "ratings": 6,
+  "runs": 3311,
+  "downloads": 1293,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

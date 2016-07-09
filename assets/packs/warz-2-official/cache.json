@@ -1,0 +1,58 @@
+{
+  "name": "warz-2-official",
+  "displayName": "WarZ 2 [official] BETA",
+  "url": "http://185.120.14.99/warz2.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/warz-2-official.842879",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/842879.png?1466014116",
+    "md5": "af7d17fa0c1885c401ca1f2a4f7a2997"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/842879.png?1466014116",
+    "md5": "9cab5de75494b8a661596bb30b568b54"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/842879.jpg?1466014116",
+    "md5": "ce22c35f82068a3ccff8a8477cafc250"
+  },
+  "minecraft": "1.7.10",
+  "version": "v2.0",
+  "description": "Download warz for the ultimate close combat experience.  It is all possible in the warz modpack.",
+  "ratings": 8,
+  "runs": 1330,
+  "downloads": 804,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "98449838596702208",
+  "feed": [
+    {
+      "user": "luukd1",
+      "date": 1463066265,
+      "content": "Updated to version v2.0",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/warz-2-official.842879/changelog/291149"
+    },
+    {
+      "user": "luukd1",
+      "date": 1462106057,
+      "content": "Added backpacks.",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/492108"
+    },
+    {
+      "user": "luukd1",
+      "date": 1462106042,
+      "content": "Updated to version 1.1",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/warz-2-official.842879/changelog/286314"
+    },
+    {
+      "user": "luukd1",
+      "date": 1462042731,
+      "content": "Warz 2 is here!",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/491508"
+    }
+  ]
+}

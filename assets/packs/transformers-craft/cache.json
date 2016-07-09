@@ -1,0 +1,100 @@
+{
+  "name": "transformers-craft",
+  "displayName": "Trans Formers Craft",
+  "url": "http://majklcraftlobby.8u.cz//transformers-craft.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/transformers-craft.566044",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/566044.png?1465299455",
+    "md5": "9593f823a886bad3c1611465cd10b1f1"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/566044.png?1465299455",
+    "md5": "135d13e3a197b3cffc64b5694f44f97b"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/566044.jpg?1465299455",
+    "md5": "61e978188316a4936492451adad52c57"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.7",
+  "description": "Created by film Transformers. They are here: robots, guns, monsters, transform monsters and technic mods. Vytvoreno podle filmu Transformers. Jsou zde: roboti, zbrane, transform monstra a technicke mody.",
+  "ratings": 50,
+  "runs": 128417,
+  "downloads": 43391,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "Majklnew5",
+      "date": 1465308363,
+      "content": "Updated to version 1.7",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/transformers-craft.566044/changelog/302549"
+    },
+    {
+      "user": "Majklnew5",
+      "date": 1465285588,
+      "content": "Updated to version 1.6",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/transformers-craft.566044/changelog/302488"
+    },
+    {
+      "user": "Majklnew5",
+      "date": 1465247063,
+      "content": "Fix a bug, Added new mods, created server. Pridane nove mody, opet jsem udelal server. :)",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/518166"
+    },
+    {
+      "user": "Majklnew5",
+      "date": 1438534031,
+      "content": "Added a new dimension and new mods, repair all lag now stable. ;) Pridane nove dimenze a nove mody, oprava vsech lagu nyni je stabilni. ;)",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/274412"
+    },
+    {
+      "user": "Majklnew5",
+      "date": 1438533760,
+      "content": "Updated to version 1.5",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/transformers-craft.566044/changelog/152109"
+    },
+    {
+      "user": "Majklnew5",
+      "date": 1433006160,
+      "content": "Updated to version 1.4",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/transformers-craft.566044/changelog/110680"
+    },
+    {
+      "user": "Majklnew5",
+      "date": 1431787110,
+      "content": "Correction lag, I\u0027ve added new textures into flans, also there are 3 new dimension :) Oprava lagu, pridal jsem nove textury do Flans, take tam jsou 3 nove dimenze ;)",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/193477"
+    },
+    {
+      "user": "Majklnew5",
+      "date": 1431785978,
+      "content": "Correction of errors added new modes. Oprava chyb pridane nove mody.",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/193456"
+    },
+    {
+      "user": "Majklnew5",
+      "date": 1431785875,
+      "content": "Updated to version 1.3",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/transformers-craft.566044/changelog/101394"
+    },
+    {
+      "user": "Majklnew5",
+      "date": 1428827222,
+      "content": "I made a big update and again I have a server. Provedl jsem velky update a udelal opet server. ",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/158400"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "counter-craft-editado",
+  "displayName": "Counter Craft - (Editado)",
+  "url": "https://copy.com/JGR9gCtIeV9TT0xl",
+  "platformUrl": "http://www.technicpack.net/modpack/counter-craft-editado.767968",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.6.4",
+  "version": "1.0",
+  "description": "Nath ;)",
+  "ratings": 1,
+  "runs": 221,
+  "downloads": 219,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

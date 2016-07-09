@@ -1,0 +1,100 @@
+{
+  "name": "funny-craft-d",
+  "displayName": "Funny Game",
+  "url": "http://www.majklcraftlobby.8u.cz/funny-craft.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/funny-craft-d.696081",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/696081.png?1466524903",
+    "md5": "ccf609435e6a79d7dc2e0631f858770b"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/696081.png?1466524903",
+    "md5": "2df16b09cf55b547c5de421768fc3a22"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/696081.jpg?1466524903",
+    "md5": "97e58ed44e3babed8c4b56ed198e741b"
+  },
+  "minecraft": "1.6.4",
+  "version": "2.2",
+  "description": "There are both technical and fun mods, you will also find 9 Worlds of Dungeons pile. :) Zabaví opravdu kazdého. Jsou zde technické i zábavné mody, obevite 9 Svetu, hromadu Dungeonu.",
+  "ratings": 134,
+  "runs": 147602,
+  "downloads": 30947,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "Majklnew",
+      "date": 1465935501,
+      "content": "Updated to version 2.2",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/funny-craft-d.696081/changelog/305629"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1465894127,
+      "content": "Add voices mod, fixed Aether world, add Morph mod. Pridany mod na mluveni, oprava Aether sveta, pridany Morph. :) ",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/523019"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1465893809,
+      "content": "Updated to version 2.1",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/funny-craft-d.696081/changelog/305438"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1460464105,
+      "content": "Add new dimezions \u003e Aether 2, The Lion King, Good Nights Sleep. and complete bug fixed.  Pridane nove mody a dimenze, oprava vsech bugu a lagu.",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/478638"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1460463876,
+      "content": "Updated to version 2.0",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/funny-craft-d.696081/changelog/278204"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1454103420,
+      "content": "Updated to version 1.9",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/funny-craft-d.696081/changelog/242494"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1454017143,
+      "content": "Adding a new mods \u003e Minions, Adventure-Time and Underground-Biomes. Pridane mody, oprava vsech lagu :)",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/419864"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1453806466,
+      "content": "Added mods and repair lag. Pridané mody a uprava lagu.",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/418016"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1453806374,
+      "content": "Updated to version 1.8",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/funny-craft-d.696081/changelog/240951"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1448466344,
+      "content": "Updated to version 1.7",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/funny-craft-d.696081/changelog/211784"
+    }
+  ]
+}

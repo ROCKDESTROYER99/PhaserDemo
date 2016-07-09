@@ -1,0 +1,79 @@
+{
+  "name": "zombieland-official",
+  "displayName": "ZombieLand [Official]",
+  "url": "http://luukjed.eu/includes/zombie.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/zombieland-official.861519",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/861519.png?1466833919",
+    "md5": "22c6916dbb1b123edb87e171e64abe7d"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/861519.png?1466833919",
+    "md5": "7b9f333e52688c86633174b0c56a96d0"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/861519.jpg?1466833919",
+    "md5": "8de727d28b49a3993f26122ffcdf8ae6"
+  },
+  "minecraft": "1.7.10",
+  "version": "B 1.3",
+  "description": "Set in a post-apocalyptic world ZombieLand is the ultimate minecraft survival pack. It doesn’t matter if you are interested in tech,magic or plain vanilla minecraft because ZombieLand offers you the best of all worlds!",
+  "ratings": 29,
+  "runs": 30781,
+  "downloads": 18554,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "98449838596702208",
+  "feed": [
+    {
+      "user": "luukd1",
+      "date": 1466785619,
+      "content": "Our website is online: http://www.luukjed.eu/zombieland",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/529899"
+    },
+    {
+      "user": "luukd1",
+      "date": 1466591535,
+      "content": "Huge event! Friday, 21:30 PM CEST +1\r\nThe event will be a lot of fun; games, rank give aways and lots of in game money.",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/528482"
+    },
+    {
+      "user": "luukd1",
+      "date": 1466275811,
+      "content": "Updated to version B 1.3",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/zombieland-official.861519/changelog/307422"
+    },
+    {
+      "user": "luukd1",
+      "date": 1466099356,
+      "content": "Fixed the bug that prevented the loading bar from showing up on the loading screen.",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/524486"
+    },
+    {
+      "user": "luukd1",
+      "date": 1466099347,
+      "content": "Updated to version B 1.1",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/zombieland-official.861519/changelog/306365"
+    },
+    {
+      "user": "luukd1",
+      "date": 1466018084,
+      "content": "Note: it may take up to 5 minutes to load the modpack!",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/523940"
+    },
+    {
+      "user": "luukd1",
+      "date": 1466014985,
+      "content": "ZombieLand is here! The follow up of Blueprints. ",
+      "avatar": "http://crafatar.com/avatars/Luukd_2000?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/523894"
+    }
+  ]
+}

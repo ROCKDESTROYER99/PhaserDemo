@@ -1,0 +1,100 @@
+{
+  "name": "tekkit-legends",
+  "displayName": "Tekkit Legends",
+  "platformUrl": "http://www.technicpack.net/modpack/tekkit-legends.735902",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/735902.png?1450477334",
+    "md5": "b5e677c08e065cf21d6c16aa25cb2616"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/735902.png?1450477334",
+    "md5": "7f268a5f61b9daaf883dd66c42a28a97"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/735902.jpg?1450477334",
+    "md5": "da708d3f5f0ae13fc0c36073530543e0"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.1.1",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "Tekkit returns in this legendary pack!",
+  "ratings": 0,
+  "runs": 7862158,
+  "downloads": 1805916,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": true,
+  "discordServerId": "42463947818795009",
+  "feed": [
+    {
+      "user": "CanVox",
+      "date": 1450473810,
+      "content": "Updated to version 1.1.1",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/tekkit-legends.735902/changelog/222279"
+    },
+    {
+      "user": "CanVox",
+      "date": 1449073164,
+      "content": "Updated to version 1.1.0",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/tekkit-legends.735902/changelog/214937"
+    },
+    {
+      "user": "CanVox",
+      "date": 1445085487,
+      "content": "Updated to version 1.0.10",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/tekkit-legends.735902/changelog/193622"
+    },
+    {
+      "user": "CanVox",
+      "date": 1444630745,
+      "content": "Updated to version 1.0.9",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/tekkit-legends.735902/changelog/191332"
+    },
+    {
+      "user": "CanVox",
+      "date": 1444549582,
+      "content": "Updated to version 1.0.8",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/tekkit-legends.735902/changelog/190687"
+    },
+    {
+      "user": "CanVox",
+      "date": 1443896956,
+      "content": "Updated to version 1.0.7",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/tekkit-legends.735902/changelog/186933"
+    },
+    {
+      "user": "CanVox",
+      "date": 1443229345,
+      "content": "Updated to version 1.0.6",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/tekkit-legends.735902/changelog/182775"
+    },
+    {
+      "user": "CanVox",
+      "date": 1443205483,
+      "content": "Updated to version 1.0.5-clientonly",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/tekkit-legends.735902/changelog/182606"
+    },
+    {
+      "user": "CanVox",
+      "date": 1443179060,
+      "content": "Updated to version 1.0.4",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/tekkit-legends.735902/changelog/182425"
+    },
+    {
+      "user": "CanVox",
+      "date": 1443088483,
+      "content": "1.0.3 is released!  We hope you enjoy the pack!",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/322617"
+    }
+  ]
+}

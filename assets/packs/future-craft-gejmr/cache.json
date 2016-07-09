@@ -1,0 +1,51 @@
+{
+  "name": "future-craft-gejmr",
+  "displayName": "Future Craft GEJMR",
+  "url": "http://www.majklcraftlobby.8u.cz/future-craft.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/future-craft-gejmr.850644",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/850644.png?1466065523",
+    "md5": "48e34eee6271973a26f0a124b137d9da"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/850644.png?1466065523",
+    "md5": "725de5824868f77ba3433a90618c5f99"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/850644.jpg?1466065523",
+    "md5": "6cd56438a88b0aa23b43c88463b25387"
+  },
+  "minecraft": "1.6.4",
+  "version": "1.1",
+  "description": "Plne funkcni modpack obsahujici vsechny mody, ktere GEJMR pouziva ve sve serii na YouTube",
+  "ratings": 25,
+  "runs": 49237,
+  "downloads": 10847,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "Majklnew",
+      "date": 1466065880,
+      "content": "Updated to version 1.1",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/future-craft-gejmr.850644/changelog/306220"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1464120562,
+      "content": "Pridal jsem i OptiFine ktery nesmi chybet v zadnem modpacku. :) Vytvořil i server aby jste si mohli zahrat spolu a vyzkouset veci ktere Gejmr stale obevuje. :O ",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/509112"
+    },
+    {
+      "user": "Majklnew",
+      "date": 1463843736,
+      "content": "Modpack byl slozen z nejnovejsich modu co hraje Gejmr a Ment. Posledni verze V6",
+      "avatar": "http://crafatar.com/avatars/conterstrike?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/506716"
+    }
+  ]
+}

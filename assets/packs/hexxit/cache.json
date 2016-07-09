@@ -1,0 +1,29 @@
+{
+  "name": "hexxit",
+  "displayName": "Hexxit",
+  "platformUrl": "http://www.technicpack.net/modpack/hexxit.552552",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552552.png?1443082685",
+    "md5": "53424912632b3c79d294af1a3d3851dc"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552552.png?1443082685",
+    "md5": "4352234fb0db470186f80e9d5c1fd0f9"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552552.jpg?1443082685",
+    "md5": "4244fc2f17e6e72c488395f2db8dc7d2"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "Gear up and set forth on a campaign worthy of legend, for Hexxit has been unearthed!",
+  "ratings": 0,
+  "runs": 27406598,
+  "downloads": 3335561,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": true,
+  "discordServerId": "42463947818795009",
+  "feed": []
+}

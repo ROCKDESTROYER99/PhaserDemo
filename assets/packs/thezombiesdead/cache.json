@@ -1,0 +1,86 @@
+{
+  "name": "thezombiesdead",
+  "displayName": "TheZombiesDead",
+  "url": "https://www.4sync.com/web/directDownload/aPd7qDNy/5ort1w.26fe3bc9321072168959b7a105651763",
+  "platformUrl": "http://www.technicpack.net/modpack/thezombiesdead.654868",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/654868.png?1464584073",
+    "md5": "012483710f5c802afe53fdba6d39f5b4"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/654868.png?1464584073",
+    "md5": "f90eaa38de9375cfe931414a4061cb0f"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/654868.jpg?1464584073",
+    "md5": "bffe90a6b3741548647eb2e2650a1cd5"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.3",
+  "description": "Have fun exploring, surviving, building and killing zombies in The Zombies Dead, will be you will survive?",
+  "ratings": 33,
+  "runs": 190345,
+  "downloads": 66537,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "TZD Oficial",
+      "date": 1464147555,
+      "content": "Witch Hunter DLC available!",
+      "avatar": "http://crafatar.com/avatars/LosterTT?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/509311"
+    },
+    {
+      "user": "TZD Oficial",
+      "date": 1464147506,
+      "content": "Updated to version 1.3",
+      "avatar": "http://crafatar.com/avatars/LosterTT?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/thezombiesdead.654868/changelog/297053"
+    },
+    {
+      "user": "TZD Oficial",
+      "date": 1463350321,
+      "content": "Install: http://www.technicpack.net/modpack/last-survival-official.849437",
+      "avatar": "http://crafatar.com/avatars/LosterTT?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/502626"
+    },
+    {
+      "user": "TZD Oficial",
+      "date": 1463110726,
+      "content": "Updated to version 1.2",
+      "avatar": "http://crafatar.com/avatars/LosterTT?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/thezombiesdead.654868/changelog/291407"
+    },
+    {
+      "user": "TZD Oficial",
+      "date": 1462772523,
+      "content": "Lançamos a pasta do serverpack para jogar com amigos, por enquanto no beta, qualquer erro avise-nos! em breve teremos o servidor oficial da modpack",
+      "avatar": "http://crafatar.com/avatars/LosterTT?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/497908"
+    },
+    {
+      "user": "UchihaNinjaa",
+      "date": 1462665825,
+      "content": "Updated to version 1.1",
+      "avatar": "http://crafatar.com/avatars/LosterTT?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/thezombiesdead.654868/changelog/289354"
+    },
+    {
+      "user": "UchihaNinjaa",
+      "date": 1462578414,
+      "content": "Estamos fazendo um rework nessa modpack em alguns mods, novos mods, detalhes, jogabilidade, imagens e outras coisas, estamos também atualizando a página no technic e site, em breve estará disponível a atualização!",
+      "avatar": "http://crafatar.com/avatars/LosterTT?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/496029"
+    },
+    {
+      "user": "UchihaNinjaa",
+      "date": 1462414849,
+      "content": "what do you think of a possible rework?",
+      "avatar": "http://crafatar.com/avatars/LosterTT?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/494609"
+    }
+  ]
+}

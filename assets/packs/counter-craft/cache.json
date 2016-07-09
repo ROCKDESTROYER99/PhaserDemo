@@ -1,0 +1,29 @@
+{
+  "name": "counter-craft",
+  "displayName": "Counter Craft",
+  "url": "https://www.dropbox.com/s/zs6n5kko16cru7v/Modpack.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/counter-craft.448245",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.6.4",
+  "version": "3.1",
+  "description": "Shoot your Friends! Plant the Bomb! Or just see them die.Welcome to Counter Craft! World\u0027s best Minecraft Counter Strike Copy. ",
+  "ratings": 18,
+  "runs": 8216,
+  "downloads": 3683,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

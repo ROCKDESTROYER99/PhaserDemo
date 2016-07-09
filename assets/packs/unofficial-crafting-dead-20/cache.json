@@ -1,0 +1,37 @@
+{
+  "name": "unofficial-crafting-dead-20",
+  "displayName": "Unofficial Crafting Dead [2,0]",
+  "url": "https://www.dropbox.com/s/2x266p1lorphx1e/modpack.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/unofficial-crafting-dead-20.671810",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/671810.png?1434041748",
+    "md5": "6b80c0990a564e05b2045423929ddaa6"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/671810.png?1434041748",
+    "md5": "96cb2d463f9f860cc486008bd460aed8"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/671810.jpg?1434041748",
+    "md5": "38ef4cebb8ccf0d8e7fddfd6d41d6eb7"
+  },
+  "minecraft": "1.5.2",
+  "version": "2.0.",
+  "description": "Unofficial Crafting Dead ",
+  "ratings": 25,
+  "runs": 96624,
+  "downloads": 31090,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "misirik",
+      "date": 1433963033,
+      "content": "Nějakej Čech?",
+      "avatar": "http://www.gravatar.com/avatar/ac7f411583440736c50421213120b61e?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/218642"
+    }
+  ]
+}

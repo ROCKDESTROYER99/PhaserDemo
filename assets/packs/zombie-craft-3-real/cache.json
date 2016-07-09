@@ -1,0 +1,29 @@
+{
+  "name": "zombie-craft-3-real",
+  "displayName": "Zombie Craft 3 REAL",
+  "url": "https://www.dropbox.com/s/v05cjrbww60pqr2/Zombie%20Craft.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/zombie-craft-3-real.171692",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.5.2",
+  "version": "1.0",
+  "description": "Zombie Craft 3",
+  "ratings": 0,
+  "runs": 0,
+  "downloads": 35,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

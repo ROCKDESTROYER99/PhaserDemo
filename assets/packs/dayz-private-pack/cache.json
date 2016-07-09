@@ -1,0 +1,29 @@
+{
+  "name": "dayz-private-pack",
+  "displayName": "DayZ for CraftPlanet Reloaded",
+  "url": "https://dl.dropboxusercontent.com/s/zw75phn4w7k3v3y/DayZ.zip?dl\u003d1\u0026token_hash\u003dAAExTzPIZF8W6D7ysLDRmkzj9ixdDrDGUUsmrtjokXek9A",
+  "platformUrl": "http://www.technicpack.net/modpack/dayz-private-pack.309373",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/309373.png?1430568996",
+    "md5": "5eec23d930af46c9dd2a5c0b78601b7e"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/309373.png?1430568996",
+    "md5": "ea9f0b3668e12fb4091f0e29924f7379"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/309373.jpg?1430568996",
+    "md5": "60f43355995bbb5b2d9618954abfba89"
+  },
+  "minecraft": "1.6.4",
+  "version": "1.0",
+  "description": "DayZ",
+  "ratings": 4,
+  "runs": 25236,
+  "downloads": 11791,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "the-legend-of-crafting",
+  "displayName": "The Legend Of Crafting",
+  "url": "https://www.dropbox.com/s/ho6t4kztkogl62e/The%20Legend%20Of%20Crafting.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/the-legend-of-crafting.817735",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/817735.png?1457169907",
+    "md5": "72b213263057ba5aba49ac9c15ec5152"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/817735.png?1457169907",
+    "md5": "cf19e883f91e5ee378ecbd30546e368c"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/817735.jpg?1457169907",
+    "md5": "ab42f04594c4abd502c7202b4410bdeb"
+  },
+  "minecraft": "1.8",
+  "version": "0.2",
+  "description": "The Legend Of Zelda Mod Pack (1.8)",
+  "ratings": 4,
+  "runs": 9161,
+  "downloads": 4358,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "KiwiChaNS",
+      "date": 1457169551,
+      "content": "Updated to version 0.2",
+      "avatar": "http://crafatar.com/avatars/KiwiChaNS?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-legend-of-crafting.817735/changelog/260363"
+    },
+    {
+      "user": "KiwiChaNS",
+      "date": 1457100859,
+      "content": "Updated to version 0.1",
+      "avatar": "http://crafatar.com/avatars/KiwiChaNS?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-legend-of-crafting.817735/changelog/259913"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "boxmix",
+  "displayName": "BoxMix",
+  "url": "https://www.dropbox.com/s/uwcqv93xirztyl6/modpack.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/boxmix.573736",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/573736.png?1427338326",
+    "md5": "d531f2fd80abf24c44ad69702cacc4cc"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/573736.png?1427338326",
+    "md5": "51cb258e4a650b9c1c829ca1b5c30479"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/573736.jpg?1427338326",
+    "md5": "200b0bd2635f68727909c4d4b794fa3b"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.4",
+  "description": "Over 80+ mods full of things awaits YOU!",
+  "ratings": 4,
+  "runs": 25576,
+  "downloads": 5892,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "Hotdogs02",
+      "date": 1427510268,
+      "content": "Updated to version 1.4",
+      "avatar": "http://crafatar.com/avatars/TheExplorerGuy?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/boxmix.573736/changelog/68370"
+    },
+    {
+      "user": "Hotdogs02",
+      "date": 1427336985,
+      "content": "Updated to version 1.3",
+      "avatar": "http://crafatar.com/avatars/TheExplorerGuy?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/boxmix.573736/changelog/67072"
+    },
+    {
+      "user": "Hotdogs02",
+      "date": 1422326231,
+      "content": "Updated to version 1.2",
+      "avatar": "http://crafatar.com/avatars/TheExplorerGuy?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/boxmix.573736/changelog/20228"
+    },
+    {
+      "user": "Hotdogs02",
+      "date": 1422146756,
+      "content": "Updated to version 1.1",
+      "avatar": "http://crafatar.com/avatars/TheExplorerGuy?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/boxmix.573736/changelog/18529"
+    },
+    {
+      "user": "Hotdogs02",
+      "date": 1422132265,
+      "content": "Updated to version 1.0",
+      "avatar": "http://crafatar.com/avatars/TheExplorerGuy?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/boxmix.573736/changelog/18259"
+    }
+  ]
+}

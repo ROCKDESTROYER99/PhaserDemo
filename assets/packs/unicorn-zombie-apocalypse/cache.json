@@ -1,0 +1,100 @@
+{
+  "name": "unicorn-zombie-apocalypse",
+  "displayName": "Unicorn Zombie Apocalypse",
+  "url": "https://dl.dropboxusercontent.com/u/97239006/uza1.8.0.2.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/unicorn-zombie-apocalypse.656584",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/656584.png?1466210050",
+    "md5": "d16e2a82c28f3ec2f66ad55463f02f18"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/656584.png?1466210050",
+    "md5": "96b5259c4feac283744464fd83a61964"
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.7.10",
+  "version": "1.8.0.2",
+  "description": "Survive in a world where zombies dominate. Get guns, choppers, planes and more! There\u0027s loot!",
+  "ratings": 9,
+  "runs": 24433,
+  "downloads": 13330,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "FoxSGR",
+      "date": 1466171909,
+      "content": "There\u0027s a server coming!",
+      "avatar": "http://crafatar.com/avatars/FoxSGR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/525040"
+    },
+    {
+      "user": "FoxSGR",
+      "date": 1466171891,
+      "content": "I\u0027m transferring the modpack\u0027s ownership to LusoTeamMC. LusoTeamMC was created by myself and my friend and associate mmigas. That account will be the one which is going to be managing the modpack from now on.",
+      "avatar": "http://crafatar.com/avatars/FoxSGR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/525039"
+    },
+    {
+      "user": "FoxSGR",
+      "date": 1465419702,
+      "content": "Updated to version 1.8.0.2",
+      "avatar": "http://crafatar.com/avatars/FoxSGR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/unicorn-zombie-apocalypse.656584/changelog/303113"
+    },
+    {
+      "user": "FoxSGR",
+      "date": 1465419223,
+      "content": "Just noticed the controls are all wrong. Reverting the options.txt file back to the one in the previous version in a few minutes. Sorry about that.",
+      "avatar": "http://crafatar.com/avatars/FoxSGR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/519371"
+    },
+    {
+      "user": "FoxSGR",
+      "date": 1465326566,
+      "content": "Updated most of the mod and shaderpacks and removed Streams mod and Minecraft Loader mod. Switched from full version of ItemPhysic to the lite one.",
+      "avatar": "http://crafatar.com/avatars/FoxSGR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/518778"
+    },
+    {
+      "user": "FoxSGR",
+      "date": 1465324719,
+      "content": "Updated to version 1.8.0.1",
+      "avatar": "http://crafatar.com/avatars/FoxSGR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/unicorn-zombie-apocalypse.656584/changelog/302675"
+    },
+    {
+      "user": "FoxSGR",
+      "date": 1461254869,
+      "content": "Who would like an update to the 1.9 MC version as soon as all the mods come out? Discuss it in the Discuss page! bit.ly/20IQ3VE",
+      "avatar": "http://crafatar.com/avatars/FoxSGR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/484813"
+    },
+    {
+      "user": "FoxSGR",
+      "date": 1459778257,
+      "content": "Updated to version 1.7.1",
+      "avatar": "http://crafatar.com/avatars/FoxSGR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/unicorn-zombie-apocalypse.656584/changelog/274938"
+    },
+    {
+      "user": "FoxSGR",
+      "date": 1438895856,
+      "content": "Downloads are back up! Sorry about that!",
+      "avatar": "http://crafatar.com/avatars/FoxSGR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/278960"
+    },
+    {
+      "user": "FoxSGR",
+      "date": 1437246610,
+      "content": "Added MineFactory Reloaded, Streams mod and StartingInventory; Dropped Items now despawn.",
+      "avatar": "http://crafatar.com/avatars/FoxSGR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/257458"
+    }
+  ]
+}

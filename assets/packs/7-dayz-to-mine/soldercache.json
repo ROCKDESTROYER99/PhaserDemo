@@ -1,0 +1,21 @@
+{
+  "name": "7-dayz-to-mine",
+  "display_name": "7 DayZ to Mine",
+  "icon": "http://solder.endermedia.com/resources/7-dayz-to-mine/icon.png",
+  "icon_md5": "c9805f4472a4a34e1e7721878b7dfde5",
+  "logo": "http://solder.endermedia.com/resources/7-dayz-to-mine/logo.png",
+  "logo_md5": "9dde6b044313ecac2138fda650dc3cc2",
+  "background": "http://solder.endermedia.com/resources/7-dayz-to-mine/background.jpg",
+  "background_md5": "7495a83ce87962b33088b1937ab67436",
+  "recommended": "666PR4",
+  "latest": "666PR4",
+  "builds": [
+    "666PR3-STANDARD",
+    "666PR3-ULTRA",
+    "666PR3-LITE",
+    "666PR3-DELUXE",
+    "666PR4",
+    "666PR4-LITE",
+    "666PR4-ULTRA"
+  ]
+}

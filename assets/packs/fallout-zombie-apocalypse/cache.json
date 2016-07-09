@@ -1,0 +1,100 @@
+{
+  "name": "fallout-zombie-apocalypse",
+  "displayName": "Fallout Zombie Apocalypse ",
+  "url": "https://dl.dropboxusercontent.com/u/550493497/modpack.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse.823357",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/823357.png?1465874831",
+    "md5": "f36e5703f285bc311f2ead5f5e839280"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/823357.png?1465874831",
+    "md5": "7c3f392430d9635e1f9d216d5849a73b"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/823357.jpg?1465874831",
+    "md5": "7307b9f0217a9891b3051812a43d0039"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.9.5",
+  "description": "A modpack that is between Fallout and a zombie apocalypse so it is kind of like a Fallout Apocalypse with an official server",
+  "ratings": 12,
+  "runs": 36131,
+  "downloads": 14150,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "KaiTheMurder",
+      "date": 1464690216,
+      "content": "Thank all of you for 10k downloads wow just wow i cant belive it ",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/513705"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1464643849,
+      "content": "Updated to version 1.9.5",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse.823357/changelog/299464"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1464482609,
+      "content": "Updated to version 1.9.4",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse.823357/changelog/298675"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1464481706,
+      "content": "Updated to version 1.9.2",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse.823357/changelog/298668"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1464247794,
+      "content": "Updated to version 1.8.4",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse.823357/changelog/297424"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1464247473,
+      "content": "Updated to version 1.8.3",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse.823357/changelog/297422"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1462871366,
+      "content": "Updated to version 1.8.2",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse.823357/changelog/290277"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1462390889,
+      "content": "the downloads and runs are broken so it says that it is at a stand still but it isnt ",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/494418"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1462070605,
+      "content": "WOW thank all of you for understanding why i havent been on but now just 4k downloads i will be back asap i just got in a bit of a fuss and yea i shouldnt talk about it :P well thank all of you :P -KAI",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/491832"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1461624315,
+      "content": "Server2 has now been finished it is an open world survival server",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/488260"
+    }
+  ]
+}

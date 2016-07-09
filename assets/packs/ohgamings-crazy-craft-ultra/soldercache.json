@@ -1,0 +1,16 @@
+{
+  "name": "ohgamings-crazy-craft-ultra",
+  "display_name": "OhGamings Craft Crazy",
+  "icon": "http://solder.ohgaming.org/resources/ohgamings-crazy-craft-ultra/icon.png",
+  "icon_md5": "b9305d8fd3536179c72ca2b27a61bea3",
+  "logo": "http://solder.ohgaming.org/resources/ohgamings-crazy-craft-ultra/logo.png",
+  "logo_md5": "0ea83f849fa3ee8263993824bbc2d134",
+  "background": "http://solder.ohgaming.org/resources/ohgamings-crazy-craft-ultra/background.jpg",
+  "background_md5": "d05e771cf5257ae4d9b540b5d235c3ea",
+  "recommended": "2.0.0-3",
+  "latest": "2.0.0-3",
+  "builds": [
+    "2.0.0-2",
+    "2.0.0-3"
+  ]
+}

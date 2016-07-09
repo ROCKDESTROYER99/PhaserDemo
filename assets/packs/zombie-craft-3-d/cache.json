@@ -1,0 +1,29 @@
+{
+  "name": "zombie-craft-3-d",
+  "displayName": "zombie craft 3 :D",
+  "url": "https://dl.dropboxusercontent.com/s/ona1cp4d7x20l6v/ZombieCraft.zip?dl\u003d1\u0026token_hash\u003dAAEsrBlCoyPZwmUNyLaGXu9CXYtEXGq4B3IP3RT4ci98OA",
+  "platformUrl": "http://www.technicpack.net/modpack/zombie-craft-3-d.318651",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.6.4",
+  "version": "1.0",
+  "description": "this is awesome",
+  "ratings": 0,
+  "runs": 1456,
+  "downloads": 604,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

@@ -1,0 +1,100 @@
+{
+  "name": "official-crafting-dead-mod",
+  "displayName": "Official Crafting Dead",
+  "url": "http://158.69.25.220/uploads/craftingdead/aftermath/modpack/version-146.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/official-crafting-dead-mod.41792",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/41792.png?1467223104",
+    "md5": "58b4516dcedf40ebb4580134acbafe13"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/41792.png?1467223104",
+    "md5": "3544c3365b50e368ec0f09d6e1b609ca"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/41792.jpg?1467223104",
+    "md5": "1087df245d45bf22bdc7afadf19ee118"
+  },
+  "minecraft": "1.6.4",
+  "version": "Aftermath 1.4.6",
+  "description": "Survive a Zombie Apocalypse alone or with a friend! Do you think you have what it takes!?",
+  "ratings": 23054,
+  "runs": 12569849,
+  "downloads": 1270621,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "f3rullo14",
+      "date": 1467223123,
+      "content": "Updated to version Aftermath 1.4.6",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/official-crafting-dead-mod.41792/changelog/312078"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1467222469,
+      "content": "Currently Patching Bugs and Glitches. I, F3RULLO14, will not be adding in new content while I work on Counter Craft. Lewis, iLewyyy, will be adding in content while I\u0027m away!",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/532354"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1467222357,
+      "content": "Updated to version Aftermath 1.4.5",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/official-crafting-dead-mod.41792/changelog/312072"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1466347567,
+      "content": "Servers are operational. Currently waiting on results of the patch",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/526568"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1466346236,
+      "content": "Version 1.4.4 is released! Fixed a lot of bugs and smoothed mechanics!",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/526549"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1466346133,
+      "content": "Updated to version Aftermath 1.4.4",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/official-crafting-dead-mod.41792/changelog/307810"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1466013473,
+      "content": "Updating servers and cloud! Thank you for the patience! ",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/523865"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1466012174,
+      "content": "Released Version 1.4.2! Nothing huge just some bug fixes and stuff behind the scenes!",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/523841"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1466011987,
+      "content": "Updated to version Aftermath 1.4.2",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/official-crafting-dead-mod.41792/changelog/305959"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1466001015,
+      "content": "Version 1.4.2 will be released soon but not before TRIPLE checking it all works ;D",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/523695"
+    }
+  ]
+}

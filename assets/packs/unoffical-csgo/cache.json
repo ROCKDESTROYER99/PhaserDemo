@@ -1,0 +1,51 @@
+{
+  "name": "unoffical-csgo",
+  "displayName": "Unoffical CSGO",
+  "url": "https://www.dropbox.com/s/3kl79s490f5unzr/the%20never%20end.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/unoffical-csgo.864008",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.8.8",
+  "version": "1.2A",
+  "description": "CSGO The New Copy Of Counter Craft But Unofficial Offical",
+  "ratings": 0,
+  "runs": 48,
+  "downloads": 45,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "https://discord.gg/015WWAtpkiMH6u1Og",
+  "feed": [
+    {
+      "user": "john320",
+      "date": 1466562459,
+      "content": "Updated to version 1.2A",
+      "avatar": "http://www.gravatar.com/avatar/b7930b0f75c4fa20b27efab8c65d82f6?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/unoffical-csgo.864008/changelog/309041"
+    },
+    {
+      "user": "john320",
+      "date": 1466562316,
+      "content": "Updated to version 1.1B",
+      "avatar": "http://www.gravatar.com/avatar/b7930b0f75c4fa20b27efab8c65d82f6?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/unoffical-csgo.864008/changelog/309039"
+    },
+    {
+      "user": "john320",
+      "date": 1466556980,
+      "content": "Updated to version 1.1A",
+      "avatar": "http://www.gravatar.com/avatar/b7930b0f75c4fa20b27efab8c65d82f6?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/unoffical-csgo.864008/changelog/309018"
+    }
+  ]
+}

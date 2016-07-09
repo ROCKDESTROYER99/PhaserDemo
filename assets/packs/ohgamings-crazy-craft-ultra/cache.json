@@ -1,0 +1,101 @@
+{
+  "name": "ohgamings-crazy-craft-ultra",
+  "displayName": "OhGaming\u0027s Craft Crazy",
+  "url": "http://mc.ohgaming.net/crazy.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/ohgamings-crazy-craft-ultra.611583",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/611583.png?1461429806",
+    "md5": "9d21dc380d4b4ee288612a60c015bc39"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/611583.png?1461429806",
+    "md5": "4f0e4129c1b2b725cfdea5227e2f1c3a"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/611583.jpg?1461429806",
+    "md5": "98ffbdfc86b8227e6cd9b294d707a8d0"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.1.6-2",
+  "solder": "http://192.99.18.29/api/",
+  "description": "Craft Crazy w/ Live Server! The better version of Crazy Craft you\u0027ll love to play.",
+  "ratings": 595,
+  "runs": 1506679,
+  "downloads": 367185,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "96686052437143552",
+  "feed": [
+    {
+      "user": "ohgaming",
+      "date": 1465585700,
+      "content": "Updated Main Menu",
+      "avatar": "http://crafatar.com/avatars/OaksVirals?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/520474"
+    },
+    {
+      "user": "ohgaming",
+      "date": 1464767430,
+      "content": "Server is back online. If you have any issues please send a support ticket. http://goo.gl/KhhU46",
+      "avatar": "http://crafatar.com/avatars/OaksVirals?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/514253"
+    },
+    {
+      "user": "ohgaming",
+      "date": 1464724616,
+      "content": "Updated the pack to match server settings. Server is still being prepared and will be un-whitelisted soon as it\u0027s live. Thanks for being patient with me. :)",
+      "avatar": "http://crafatar.com/avatars/OaksVirals?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/513999"
+    },
+    {
+      "user": "ohgaming",
+      "date": 1464628658,
+      "content": "We\u0027re resetting the server world and updating this modpack to bring some fresh new amazing things to you guys! Please be patient while we work on the server and the pack will have an update soon as it\u0027s ready.",
+      "avatar": "http://crafatar.com/avatars/OaksVirals?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/513303"
+    },
+    {
+      "user": "ohgaming",
+      "date": 1464375210,
+      "content": "Removed Tubes mod due to a player corrupting issue.",
+      "avatar": "http://crafatar.com/avatars/OaksVirals?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/511009"
+    },
+    {
+      "user": "ohgaming",
+      "date": 1464128041,
+      "content": "Updated CodeChickenCore and Not Enough Items",
+      "avatar": "http://crafatar.com/avatars/OaksVirals?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/509179"
+    },
+    {
+      "user": "ohgaming",
+      "date": 1463608001,
+      "content": "Updated Bibliocraft: a couple major bug fixes",
+      "avatar": "http://crafatar.com/avatars/OaksVirals?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/504804"
+    },
+    {
+      "user": "ohgaming",
+      "date": 1461900475,
+      "content": "Updated Biomes OP, Carpenters Blocks, Crayfish Furniture, Harvestcraft, Railcraft",
+      "avatar": "http://crafatar.com/avatars/OaksVirals?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/490153"
+    },
+    {
+      "user": "ohgaming",
+      "date": 1461873031,
+      "content": "Added Voice Chat. Press period for options and V to chat in game.",
+      "avatar": "http://crafatar.com/avatars/OaksVirals?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/489976"
+    },
+    {
+      "user": "ohgaming",
+      "date": 1455048410,
+      "content": "Updated OptiFine - you\u0027ll have more FPS improvement settings!",
+      "avatar": "http://crafatar.com/avatars/OaksVirals?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/430023"
+    }
+  ]
+}

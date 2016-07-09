@@ -1,0 +1,100 @@
+{
+  "name": "counter-craft-pixel-offensive",
+  "displayName": "Counter-Craft: Pixel Offensive",
+  "url": "https://copy.com/G4ax26WDDtnUnQ6g",
+  "platformUrl": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/692308.png?1437257866",
+    "md5": "fc791824e0f10707d741ae08e1d5d211"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/692308.png?1437257866",
+    "md5": "ed0990e363886b3fb314fa69ea8060df"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/692308.jpg?1437257866",
+    "md5": "a8b9941b9f480ee40223d91982a26075"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.26",
+  "description": "Designed to test your PvP and piloting skill- \"War, war never changes\"",
+  "ratings": 7,
+  "runs": 14486,
+  "downloads": 8124,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "trav1405",
+      "date": 1437249952,
+      "content": "Updated to version 1.26",
+      "avatar": "http://crafatar.com/avatars/operatedeye1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308/changelog/141947"
+    },
+    {
+      "user": "trav1405",
+      "date": 1436725127,
+      "content": "Updated to version 1.25",
+      "avatar": "http://crafatar.com/avatars/operatedeye1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308/changelog/137791"
+    },
+    {
+      "user": "trav1405",
+      "date": 1436724856,
+      "content": "Updated to version 1.25",
+      "avatar": "http://crafatar.com/avatars/operatedeye1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308/changelog/137791"
+    },
+    {
+      "user": "trav1405",
+      "date": 1436724365,
+      "content": "Updated to version 1.24",
+      "avatar": "http://crafatar.com/avatars/operatedeye1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308/changelog/137784"
+    },
+    {
+      "user": "trav1405",
+      "date": 1436722918,
+      "content": "Updated to version 1.23",
+      "avatar": "http://crafatar.com/avatars/operatedeye1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308/changelog/137770"
+    },
+    {
+      "user": "trav1405",
+      "date": 1436711169,
+      "content": "Updated to version 1.22",
+      "avatar": "http://crafatar.com/avatars/operatedeye1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308/changelog/137644"
+    },
+    {
+      "user": "trav1405",
+      "date": 1436711155,
+      "content": "Updated to version 1.22",
+      "avatar": "http://crafatar.com/avatars/operatedeye1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308/changelog/137644"
+    },
+    {
+      "user": "trav1405",
+      "date": 1436643677,
+      "content": "Updated to version 1.21",
+      "avatar": "http://crafatar.com/avatars/operatedeye1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308/changelog/137165"
+    },
+    {
+      "user": "trav1405",
+      "date": 1436639661,
+      "content": "Updated to version 1.2",
+      "avatar": "http://crafatar.com/avatars/operatedeye1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308/changelog/137120"
+    },
+    {
+      "user": "trav1405",
+      "date": 1436637258,
+      "content": "Updated to version 1.11",
+      "avatar": "http://crafatar.com/avatars/operatedeye1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-craft-pixel-offensive.692308/changelog/137084"
+    }
+  ]
+}

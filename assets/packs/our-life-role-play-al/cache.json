@@ -1,0 +1,79 @@
+{
+  "name": "our-life-role-play-al",
+  "displayName": "Crafting Your Life : RP",
+  "url": "https://www.dropbox.com/s/vzhvus3x7erk92p/modpackl.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/our-life-role-play-al.831500",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/831500.png?1459843422",
+    "md5": "3a6916a910cf7d4d1df172459baf4d1a"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/831500.png?1459843422",
+    "md5": "d961f0d541381563d9e89456f45a0c6d"
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.7.10",
+  "version": "1.1b",
+  "description": "Ce modpack, est destiné au serveur Role-Play, Crafting Your Life RP, c\u0027est un serveur de type Arma 3, basé sur le mode de jeu, Altis Life...",
+  "ratings": 3,
+  "runs": 6016,
+  "downloads": 3212,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "boosters38",
+      "date": 1461426010,
+      "content": "Updated to version 1.1b",
+      "avatar": "http://crafatar.com/avatars/FaZeMC?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/our-life-role-play-al.831500/changelog/282815"
+    },
+    {
+      "user": "boosters38",
+      "date": 1460556733,
+      "content": "Or i could fix it !!!!",
+      "avatar": "http://crafatar.com/avatars/FaZeMC?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/479234"
+    },
+    {
+      "user": "boosters38",
+      "date": 1460556701,
+      "content": "Hey guys, if you are downloading the modpack, please, like it, and tell me some bugs or lags if there is some, so i could improve it !\r\n",
+      "avatar": "http://crafatar.com/avatars/FaZeMC?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/479233"
+    },
+    {
+      "user": "boosters38",
+      "date": 1460556533,
+      "content": "Updated to version 1.1a",
+      "avatar": "http://crafatar.com/avatars/FaZeMC?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/our-life-role-play-al.831500/changelog/278517"
+    },
+    {
+      "user": "boosters38",
+      "date": 1459841273,
+      "content": "Updated to version 1.1",
+      "avatar": "http://crafatar.com/avatars/FaZeMC?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/our-life-role-play-al.831500/changelog/275279"
+    },
+    {
+      "user": "boosters38",
+      "date": 1459713832,
+      "content": "Updated to version 1.0",
+      "avatar": "http://crafatar.com/avatars/FaZeMC?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/our-life-role-play-al.831500/changelog/274669"
+    },
+    {
+      "user": "boosters38",
+      "date": 1459713693,
+      "content": "Modpack utilisable !",
+      "avatar": "http://crafatar.com/avatars/FaZeMC?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/472699"
+    }
+  ]
+}

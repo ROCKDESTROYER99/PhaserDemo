@@ -1,0 +1,29 @@
+{
+  "name": "zombie-craft-beta-3-d",
+  "displayName": "Zombie Craft Beta 3 :D",
+  "url": "https://dl.dropbox.com/s/onbx2qjp08oi8ot/ZombieCraft.zip?token_hash\u003dAAEMhIzs4-qIRzv8Y7m2JTZ_3b7JO4_H7OtSvmLE1XLzGA\u0026dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/zombie-craft-beta-3-d.54521",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.4.6",
+  "version": "1.0",
+  "description": "Zombie craft beta 3 :D!!!!!!!!!!!! YAAAAAAAAAAAAAAAY!!!!!!!!",
+  "ratings": 0,
+  "runs": 10,
+  "downloads": 28,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

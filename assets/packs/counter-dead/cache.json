@@ -1,0 +1,29 @@
+{
+  "name": "counter-dead",
+  "displayName": "Counter Dead",
+  "url": "https://www.dropbox.com/s/j1axpzye4mq7y3a/Counter%20Dead%20Modpack.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/counter-dead.802889",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/802889.png?1454529306",
+    "md5": "379c7fa158120dbe2b0d401a0b428c3e"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/802889.png?1454529306",
+    "md5": "6c000b9ab369600c7d119a648361ed93"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/802889.jpg?1454529306",
+    "md5": "d1148315c0f429884c6fb4284367fd09"
+  },
+  "minecraft": "1.6.4",
+  "version": "1.0",
+  "description": "F3rull014 modpacks",
+  "ratings": 1,
+  "runs": 7,
+  "downloads": 63,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

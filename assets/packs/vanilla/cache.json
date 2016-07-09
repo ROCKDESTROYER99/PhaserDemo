@@ -1,0 +1,29 @@
+{
+  "name": "vanilla",
+  "displayName": "Vanilla",
+  "platformUrl": "http://www.technicpack.net/modpack/vanilla.552561",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552561.png?1443082717",
+    "md5": "7c016ce4e975922599fa81ca1c43e486"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552561.png?1443082717",
+    "md5": "da222e1386a9bd63a2f419edcb7e6d27"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552561.jpg?1443082717",
+    "md5": "5bf4e566a8d80aee9f5d4b764b5dc432"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "Vanilla Minecraft",
+  "ratings": 0,
+  "runs": 12440192,
+  "downloads": 1713825,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": true,
+  "discordServerId": "42463947818795009",
+  "feed": []
+}

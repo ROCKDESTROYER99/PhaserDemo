@@ -1,0 +1,51 @@
+{
+  "name": "lendarycraft-340",
+  "displayName": "Pixelmon LendaryCraft 3.5.1",
+  "url": "https://cld.pt/dl/download/fc8debb6-01d1-4f7f-b28b-d322366330ad/modpack_3.5.1.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/lendarycraft-340.616493",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/616493.png?1460497026",
+    "md5": "41f385dd20bee549cbd0f3cd0b160bde"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/616493.png?1460497026",
+    "md5": "b85eb1d7600123fa05fec9e54afe30fe"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/616493.jpg?1460497026",
+    "md5": "36bc46a849f3c7171498c84e08f83972"
+  },
+  "minecraft": "1.7.10",
+  "version": "Nova GM 2.0",
+  "description": "Servidor LendaryCraft Pokemon Oficial                                          (muitas novidades, aventuras, Quest\u0027s e muito mais).                            ip: lendarycraft.playbr.net",
+  "ratings": 16,
+  "runs": 165212,
+  "downloads": 27891,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "LendaryCraft",
+      "date": 1459177846,
+      "content": "Galera ModPack pronto para o nosso servidor com nova cidade e muitas aventuras.",
+      "avatar": "http://crafatar.com/avatars/LendaryCraft?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/467693"
+    },
+    {
+      "user": "LendaryCraft",
+      "date": 1453330883,
+      "content": "Updated to version Nova GM 2.0",
+      "avatar": "http://crafatar.com/avatars/LendaryCraft?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/lendarycraft-340.616493/changelog/237876"
+    },
+    {
+      "user": "LendaryCraft",
+      "date": 1453330700,
+      "content": "Updated to version Nova GM 2.0",
+      "avatar": "http://crafatar.com/avatars/LendaryCraft?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/lendarycraft-340.616493/changelog/237876"
+    }
+  ]
+}

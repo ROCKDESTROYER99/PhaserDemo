@@ -1,0 +1,86 @@
+{
+  "name": "the-sims-craft-authenticgames-by-noturno",
+  "displayName": "The SimsCraft (AuthenticGames)",
+  "url": "https://cld.pt/dl/download/a3f86fab-ef68-48ef-9f6c-cc22410485d4/TheSimsCraft1710.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/the-sims-craft-authenticgames-by-noturno.493688",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/493688.png?1463006702",
+    "md5": "6ac02e8eb05c42ebe52452bebc3d2c0f"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/493688.png?1463006702",
+    "md5": "8860890c1d26bad103f2cba335428e66"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/493688.jpg?1463006702",
+    "md5": "c645b086cc837b5e38b99f3bfc371628"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.5",
+  "description": "The Sims",
+  "ratings": 718,
+  "runs": 1396455,
+  "downloads": 245260,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "nightcrawlerplay",
+      "date": 1434408140,
+      "content": "Updated to version 1.5",
+      "avatar": "http://www.gravatar.com/avatar/b5ec092b04bc0fdae8fe7c2949568078?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-authenticgames-by-noturno.493688/changelog/121127"
+    },
+    {
+      "user": "nightcrawlerplay",
+      "date": 1427331259,
+      "content": "Updated to version 1.4",
+      "avatar": "http://www.gravatar.com/avatar/b5ec092b04bc0fdae8fe7c2949568078?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-authenticgames-by-noturno.493688/changelog/67015"
+    },
+    {
+      "user": "nightcrawlerplay",
+      "date": 1421949004,
+      "content": "Mods adicionados:\r\nThe School\r\nDragonCraft\r\n\r\n*The School mod não funciona no servidor, infelizmente ele dá crash no servidor. Então o mod foi apenas instalado no Modpack.",
+      "avatar": "http://www.gravatar.com/avatar/b5ec092b04bc0fdae8fe7c2949568078?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/41323"
+    },
+    {
+      "user": "nightcrawlerplay",
+      "date": 1421948707,
+      "content": "Updated to version 1.3",
+      "avatar": "http://www.gravatar.com/avatar/b5ec092b04bc0fdae8fe7c2949568078?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-authenticgames-by-noturno.493688/changelog/16461"
+    },
+    {
+      "user": "nightcrawlerplay",
+      "date": 1421674309,
+      "content": "*Legacy Java Fixer instalado\r\nFix que poderá ajudar a quem tem Java 8 instalado no PC e não conseguia jogar o Modpack.",
+      "avatar": "http://www.gravatar.com/avatar/b5ec092b04bc0fdae8fe7c2949568078?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/36417"
+    },
+    {
+      "user": "nightcrawlerplay",
+      "date": 1421673945,
+      "content": "Updated to version 1.2",
+      "avatar": "http://www.gravatar.com/avatar/b5ec092b04bc0fdae8fe7c2949568078?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-authenticgames-by-noturno.493688/changelog/14585"
+    },
+    {
+      "user": "nightcrawlerplay",
+      "date": 1421549530,
+      "content": "Updated to version 1.1",
+      "avatar": "http://www.gravatar.com/avatar/b5ec092b04bc0fdae8fe7c2949568078?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-authenticgames-by-noturno.493688/changelog/13542"
+    },
+    {
+      "user": "nightcrawlerplay",
+      "date": 1421548797,
+      "content": "Updated to version 1.1",
+      "avatar": "http://www.gravatar.com/avatar/b5ec092b04bc0fdae8fe7c2949568078?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-authenticgames-by-noturno.493688/changelog/13542"
+    }
+  ]
+}

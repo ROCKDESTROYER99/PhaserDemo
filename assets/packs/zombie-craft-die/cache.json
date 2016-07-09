@@ -1,0 +1,29 @@
+{
+  "name": "zombie-craft-die",
+  "displayName": "Zombie Craft Die",
+  "url": "https://copy.com/7sr9NGmoEcrlLeU8",
+  "platformUrl": "http://www.technicpack.net/modpack/zombie-craft-die.788533",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/788533.png?1452185464",
+    "md5": "e968418ed178a5331d0b58c26427e5ac"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/788533.png?1452185464",
+    "md5": "6006308747bfc6a119b399b900e4860a"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/788533.jpg?1452185464",
+    "md5": "67e2aa3f130f07196fc9f2fc3591f975"
+  },
+  "minecraft": "1.6.4",
+  "version": "1.0",
+  "description": "Mod pack da serie Zombie craft Die dos canais Jogatina Diaria , Gamer Mega , Renan Games",
+  "ratings": 1,
+  "runs": 592,
+  "downloads": 321,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

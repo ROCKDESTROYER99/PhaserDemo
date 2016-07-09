@@ -1,0 +1,37 @@
+{
+  "name": "official-crafting-dead-cure",
+  "displayName": "Official Crafting Dead Cure",
+  "url": "http://158.69.25.220/uploads/craftingdead/modpack/version-244.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/official-crafting-dead-cure.787470",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.5.2",
+  "version": "2.2.4",
+  "description": "Crafting Dead Cure, the original modpack.",
+  "ratings": 7,
+  "runs": 22773,
+  "downloads": 6620,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "f3rullo14",
+      "date": 1456267097,
+      "content": "Updated to version 2.2.4",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/official-crafting-dead-cure.787470/changelog/255698"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "attack-of-the-bteam",
+  "displayName": "Attack of the B-Team",
+  "platformUrl": "http://www.technicpack.net/modpack/attack-of-the-bteam.552556",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552556.png?1445088955",
+    "md5": "05b9ca7ff66e6301c0b6f60f1f74315f"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552556.png?1445088955",
+    "md5": "10fd52d7792171be49d80f6ffb3c52a9"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552556.jpg?1445088955",
+    "md5": "7718f9b6df14ba8d28ea02e85b60a563"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0.12c",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "Designed with one thing in mind, crazy mad science! Play with some of the wackiest mods we could find!",
+  "ratings": 0,
+  "runs": 19178369,
+  "downloads": 2635038,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": true,
+  "discordServerId": "42463947818795009",
+  "feed": [
+    {
+      "user": "CanVox",
+      "date": 1445088785,
+      "content": "Updated to version 1.0.12c",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/attack-of-the-bteam.552556/changelog/193643"
+    },
+    {
+      "user": "CanVox",
+      "date": 1419980265,
+      "content": "We\u0027ve applied LexManos\u0027s Legacy Java Fixer to Attack of the B-Team, so now users with java 1.8 can play!",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/6483"
+    }
+  ]
+}

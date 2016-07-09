@@ -1,0 +1,29 @@
+{
+  "name": "counter-strike-mco",
+  "displayName": "Counter Strike MCO",
+  "url": "https://db.tt/lZkbdsaK",
+  "platformUrl": "http://www.technicpack.net/modpack/counter-strike-mco.406466",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.7.2",
+  "version": "1.1",
+  "description": "MYARR",
+  "ratings": 1,
+  "runs": 0,
+  "downloads": 374,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

@@ -1,0 +1,37 @@
+{
+  "name": "coretech-craft",
+  "displayName": "CoreTech Craft",
+  "url": "https://dl.dropboxusercontent.com/u/462577285/modpack.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/coretech-craft.723413",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/723413.png?1462727290",
+    "md5": "f953c15120d4619fc864e45e7d09d7e8"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/723413.png?1462727290",
+    "md5": "e6f5ceb8fe0848aedee4bd30aa2a8537"
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.7.10",
+  "version": "1.0",
+  "description": "Welcome to Core-Tech, My first ever Modpack! This Modpack is filled with mysteries! With over hundreds of  Creatures, Weapons, Tools and Dungeons this Modpack will never get boring. More Info : https://www.youtube.com/channel/UCwCkflBdE4RszKPbCcOr0Gw",
+  "ratings": 17,
+  "runs": 104059,
+  "downloads": 27431,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "zombievaliYT",
+      "date": 1441045399,
+      "content": "im planing to soon update the modpack and add crazy gun update!",
+      "avatar": "http://www.gravatar.com/avatar/615b8706af22e3b6f23b4f92d1b237cc?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/303069"
+    }
+  ]
+}

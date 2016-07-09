@@ -1,0 +1,29 @@
+{
+  "name": "the-crafting-dead-tcd",
+  "displayName": "The Crafting Dead (TCD)",
+  "url": "https://dl.dropbox.com/s/u9v8vor2i8lqe0b/TCD.zip.zip?dl\u003d0",
+  "platformUrl": "http://www.technicpack.net/modpack/the-crafting-dead-tcd.699651",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.5.2",
+  "version": "1.0",
+  "description": "meu modpack",
+  "ratings": 36,
+  "runs": 14495,
+  "downloads": 13283,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

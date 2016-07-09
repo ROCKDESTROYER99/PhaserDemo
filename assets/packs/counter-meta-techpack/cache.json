@@ -1,0 +1,100 @@
+{
+  "name": "counter-meta-techpack",
+  "displayName": "Counter Meta Techpack",
+  "url": "http://modpack.goofyplace.org/Loky/CmT.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/counter-meta-techpack.719887",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/719887.png?1445094136",
+    "md5": "cc9f934119d166a2e1f3baf2d8686e7c"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/719887.png?1445094136",
+    "md5": "477103e88d3e56e0e8453abf0e366a8e"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/719887.jpg?1445094136",
+    "md5": "88e9eb88fce383f45a11f39849ca3f43"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.20",
+  "description": "New tech",
+  "ratings": 4,
+  "runs": 1391,
+  "downloads": 395,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "loky_live",
+      "date": 1453579445,
+      "content": "Updated to version 1.20",
+      "avatar": "http://crafatar.com/avatars/desu76?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-meta-techpack.719887/changelog/239380"
+    },
+    {
+      "user": "loky_live",
+      "date": 1453425511,
+      "content": "Updated to version 1.19",
+      "avatar": "http://crafatar.com/avatars/desu76?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-meta-techpack.719887/changelog/238393"
+    },
+    {
+      "user": "loky_live",
+      "date": 1448894976,
+      "content": "Updated to version 1.18",
+      "avatar": "http://crafatar.com/avatars/desu76?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-meta-techpack.719887/changelog/214180"
+    },
+    {
+      "user": "loky_live",
+      "date": 1448894186,
+      "content": "Updated to version 1.18",
+      "avatar": "http://crafatar.com/avatars/desu76?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-meta-techpack.719887/changelog/214180"
+    },
+    {
+      "user": "loky_live",
+      "date": 1447387021,
+      "content": "Updated to version 1.17",
+      "avatar": "http://crafatar.com/avatars/desu76?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-meta-techpack.719887/changelog/206244"
+    },
+    {
+      "user": "loky_live",
+      "date": 1445267678,
+      "content": "Updated to version 1.16",
+      "avatar": "http://crafatar.com/avatars/desu76?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-meta-techpack.719887/changelog/194837"
+    },
+    {
+      "user": "loky_live",
+      "date": 1445200791,
+      "content": "Updated to version 1.15",
+      "avatar": "http://crafatar.com/avatars/desu76?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-meta-techpack.719887/changelog/194539"
+    },
+    {
+      "user": "loky_live",
+      "date": 1444940592,
+      "content": "Updated to version 1.14",
+      "avatar": "http://crafatar.com/avatars/desu76?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-meta-techpack.719887/changelog/192878"
+    },
+    {
+      "user": "loky_live",
+      "date": 1444750515,
+      "content": "Updated to version 1.13",
+      "avatar": "http://crafatar.com/avatars/desu76?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-meta-techpack.719887/changelog/191916"
+    },
+    {
+      "user": "loky_live",
+      "date": 1444693223,
+      "content": "Updated to version 1.12",
+      "avatar": "http://crafatar.com/avatars/desu76?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/counter-meta-techpack.719887/changelog/191739"
+    }
+  ]
+}

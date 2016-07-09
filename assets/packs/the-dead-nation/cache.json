@@ -1,0 +1,65 @@
+{
+  "name": "the-dead-nation",
+  "displayName": "The Dead Nation",
+  "url": "https://www.dropbox.com/s/44eix03kx05uwcu/modpack.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/the-dead-nation.841047",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/841047.png?1462297372",
+    "md5": "a6fe631301b05158a91ac1ff9d3fc444"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/841047.png?1462297372",
+    "md5": "7f6deebd795a0b714a9e3e152ce460e4"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/841047.jpg?1462297372",
+    "md5": "b83124b90c0c19960886752926b39235"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.2.1",
+  "description": "Official Server pack for The Dead Nation!",
+  "ratings": 3,
+  "runs": 3198,
+  "downloads": 2150,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "Unrivaledneo",
+      "date": 1462668352,
+      "content": "Updated to version 1.2.1",
+      "avatar": "http://www.gravatar.com/avatar/7f80b53dcde02d210f7d4e9aa8f1ccfa?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/the-dead-nation.841047/changelog/289369"
+    },
+    {
+      "user": "Unrivaledneo",
+      "date": 1462404636,
+      "content": "Updated to version 1.2.0",
+      "avatar": "http://www.gravatar.com/avatar/7f80b53dcde02d210f7d4e9aa8f1ccfa?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/the-dead-nation.841047/changelog/287846"
+    },
+    {
+      "user": "Unrivaledneo",
+      "date": 1462088585,
+      "content": "VERSION 1.1.0 \r\nUpdated Main Menu\r\nAdded new Zombie Spawning System\r\nAdded Looting around the map\r\nFixed a few bugs\r\nFirst Test of PVP/Mob rewards",
+      "avatar": "http://www.gravatar.com/avatar/7f80b53dcde02d210f7d4e9aa8f1ccfa?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/491951"
+    },
+    {
+      "user": "Unrivaledneo",
+      "date": 1461956831,
+      "content": "Version 1.0.4 \r\nJust minor bug fixes",
+      "avatar": "http://www.gravatar.com/avatar/7f80b53dcde02d210f7d4e9aa8f1ccfa?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/490562"
+    },
+    {
+      "user": "Unrivaledneo",
+      "date": 1461815062,
+      "content": "1.1 Updated Main Menu",
+      "avatar": "http://www.gravatar.com/avatar/7f80b53dcde02d210f7d4e9aa8f1ccfa?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/489623"
+    }
+  ]
+}

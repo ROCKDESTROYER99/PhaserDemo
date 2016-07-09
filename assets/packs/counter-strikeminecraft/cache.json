@@ -1,0 +1,29 @@
+{
+  "name": "counter-strikeminecraft",
+  "displayName": "Counter-Strike|Minecraft",
+  "url": "https://dl.dropbox.com/s/vzlije7yxueyy28/modpack.zip?dl\u003d0",
+  "platformUrl": "http://www.technicpack.net/modpack/counter-strikeminecraft.844730",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.7.10",
+  "version": "1.0",
+  "description": "Modpack Parecido Com Counter-Strike",
+  "ratings": 0,
+  "runs": 410,
+  "downloads": 369,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

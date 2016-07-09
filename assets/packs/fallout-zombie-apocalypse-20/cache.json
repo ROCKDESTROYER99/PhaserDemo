@@ -1,0 +1,58 @@
+{
+  "name": "fallout-zombie-apocalypse-20",
+  "displayName": "Fallout Zombie Apocalypse 2.0",
+  "url": "https://dl.dropboxusercontent.com/u/550493497/modpack.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse-20.846606",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/846606.png?1464643924",
+    "md5": "d9c430f42d0aac4beb43ceedcdb59a91"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/846606.png?1464643924",
+    "md5": "7c3f392430d9635e1f9d216d5849a73b"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/846606.jpg?1464643924",
+    "md5": "07ce6d5a4114c71c8aa7940033f98420"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.9.5",
+  "description": "A modpack that is between Fallout and a zombie apocalypse so it is kind of like a Fallout Apocalypse with an official server",
+  "ratings": 3,
+  "runs": 3485,
+  "downloads": 1599,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "KaiTheMurder",
+      "date": 1464643909,
+      "content": "Updated to version 1.9.5",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse-20.846606/changelog/299465"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1464247541,
+      "content": "Updated to version 1.8.3",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse-20.846606/changelog/297423"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1462871396,
+      "content": "Updated to version 1.8.2",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse-20.846606/changelog/290278"
+    },
+    {
+      "user": "KaiTheMurder",
+      "date": 1462751113,
+      "content": "Updated to version 1.0",
+      "avatar": "http://crafatar.com/avatars/ZombieSlayerKaiF?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/fallout-zombie-apocalypse-20.846606/changelog/289874"
+    }
+  ]
+}

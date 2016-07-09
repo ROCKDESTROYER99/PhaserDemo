@@ -1,0 +1,100 @@
+{
+  "name": "blightfall",
+  "displayName": "Blightfall",
+  "platformUrl": "http://www.technicpack.net/modpack/blightfall.592618",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/592618.png?1444539785",
+    "md5": "0e9c97fe5d621abc47d5aaddf81140b2"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/592618.png?1444539785",
+    "md5": "77fc566a2cd82162cc60198b22c47582"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/592618.jpg?1444539785",
+    "md5": "0b9f929bd4151a461d8a57192deb7041"
+  },
+  "minecraft": "1.7.10",
+  "version": "2.1.5",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "Can you survive on the blighted planet? Questing, adventure, and exploration.",
+  "ratings": 639,
+  "runs": 1993043,
+  "downloads": 1252440,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": true,
+  "discordServerId": "42463947818795009",
+  "feed": [
+    {
+      "user": "Talonos",
+      "date": 1444539824,
+      "content": "Updated to version 2.1.5",
+      "avatar": "http://www.gravatar.com/avatar/5f7874042f4712d33d154bfcd20d46fd?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/blightfall.592618/changelog/190642"
+    },
+    {
+      "user": "Talonos",
+      "date": 1442465279,
+      "content": "Updated to version 2.1.4",
+      "avatar": "http://www.gravatar.com/avatar/5f7874042f4712d33d154bfcd20d46fd?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/blightfall.592618/changelog/178715"
+    },
+    {
+      "user": "Talonos",
+      "date": 1442465196,
+      "content": "Blightfall is updated to version 2.1.4. This is a bugfix release that fixes a pretty serious problem with the worldgen that may surround your island with a giant wall of plains biome.",
+      "avatar": "http://www.gravatar.com/avatar/5f7874042f4712d33d154bfcd20d46fd?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/317165"
+    },
+    {
+      "user": "Talonos",
+      "date": 1442421691,
+      "content": "Blightfall is now updated to version 2.1.3! (The server pack is also available. To update a server, download the new server, delete the \"world\" folder from it, and paste the \"world\" folder from your old server into the new server.)",
+      "avatar": "http://www.gravatar.com/avatar/5f7874042f4712d33d154bfcd20d46fd?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/316783"
+    },
+    {
+      "user": "Talonos",
+      "date": 1442383549,
+      "content": "Updated to version 2.1.3",
+      "avatar": "http://www.gravatar.com/avatar/5f7874042f4712d33d154bfcd20d46fd?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/blightfall.592618/changelog/178260"
+    },
+    {
+      "user": "Talonos",
+      "date": 1440287381,
+      "content": "Updated to version 2.1.2",
+      "avatar": "http://www.gravatar.com/avatar/5f7874042f4712d33d154bfcd20d46fd?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/blightfall.592618/changelog/164738"
+    },
+    {
+      "user": "Talonos",
+      "date": 1440120812,
+      "content": "Updated to version 2.1.1a",
+      "avatar": "http://www.gravatar.com/avatar/5f7874042f4712d33d154bfcd20d46fd?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/blightfall.592618/changelog/163509"
+    },
+    {
+      "user": "Talonos",
+      "date": 1440101425,
+      "content": "Updated to version 2.1.1! Server files also updated! Old worlds and quest data are forward compatible, feel free to update as soon as your server has.",
+      "avatar": "http://www.gravatar.com/avatar/5f7874042f4712d33d154bfcd20d46fd?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/292386"
+    },
+    {
+      "user": "Talonos",
+      "date": 1440101349,
+      "content": "Updated to version 2.1.1",
+      "avatar": "http://www.gravatar.com/avatar/5f7874042f4712d33d154bfcd20d46fd?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/blightfall.592618/changelog/163347"
+    },
+    {
+      "user": "Talonos",
+      "date": 1439611156,
+      "content": "If you\u0027re having trouble getting started and prefer to have text tutorials, check out http://wiki.technicpack.net/Your_First_Day(Blightfall) ! I\u0027m gonna try and put some useful stuff on the wiki. Any suggestions? Reply to this comment!",
+      "avatar": "http://www.gravatar.com/avatar/5f7874042f4712d33d154bfcd20d46fd?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/286753"
+    }
+  ]
+}

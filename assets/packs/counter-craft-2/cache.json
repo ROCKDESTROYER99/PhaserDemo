@@ -1,0 +1,29 @@
+{
+  "name": "counter-craft-2",
+  "displayName": "Counter craft 2",
+  "url": "https://www.dropbox.com/s/wyi57tfdczx6m8x/Counter%20craft.zip?dl\u003d0",
+  "platformUrl": "http://www.technicpack.net/modpack/counter-craft-2.767422",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.6.4",
+  "version": "1.0",
+  "description": "rtasdthb",
+  "ratings": 0,
+  "runs": 0,
+  "downloads": 81,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

@@ -1,0 +1,100 @@
+{
+  "name": "7-dayz-to-mine",
+  "displayName": "7 DayZ to Mine",
+  "platformUrl": "http://www.technicpack.net/modpack/7-dayz-to-mine.621982",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/621982.png?1460404618",
+    "md5": "5aedb46ec138aca729cfd537f4377cce"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/621982.png?1460404618",
+    "md5": "bd7528afc75437442c22174d07f1b913"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/621982.jpg?1460404618",
+    "md5": "c30e07dffa79588bb05d531f423915d4"
+  },
+  "minecraft": "1.7.10",
+  "version": "666PR4",
+  "solder": "http://solder.endermedia.com/index.php/api/",
+  "description": "Survive, explore and loot procedurally generated cities above and below ground with road systems, walls and rivers!  Discover Underground Vaults, Mutant Laboratories, Police Stations, Fire Stations and many other special encounters!",
+  "ratings": 297,
+  "runs": 357277,
+  "downloads": 137962,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "163624993614200832",
+  "feed": [
+    {
+      "user": "glixyl",
+      "date": 1459083635,
+      "content": "Prometheus Rising is my newest sci-fi horror experience set in the Aliens vs Predator Universe and is guaranteed to be the scariest mod pack you have ever played.  Get it at http://www.technicpack.net/modpack/prometheus-rising-avp.827590",
+      "avatar": "http://www.gravatar.com/avatar/634368c2ecad5a77904fe106db1a5555?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/466629"
+    },
+    {
+      "user": "glixyl",
+      "date": 1450043737,
+      "content": "The Seven DayZ to Mine server is once again open!",
+      "avatar": "http://www.gravatar.com/avatar/634368c2ecad5a77904fe106db1a5555?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/383635"
+    },
+    {
+      "user": "glixyl",
+      "date": 1449863019,
+      "content": "Updated to version 666PR4",
+      "avatar": "http://www.gravatar.com/avatar/634368c2ecad5a77904fe106db1a5555?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/7-dayz-to-mine.621982/changelog/219034"
+    },
+    {
+      "user": "glixyl",
+      "date": 1448534783,
+      "content": "There are 4 client versions: STANDARD, LITE for slow computers, DELUXE with dynamic lighting, ULTRA with shaders.  Pick them from the mod pack options within the Technic launcher.",
+      "avatar": "http://www.gravatar.com/avatar/634368c2ecad5a77904fe106db1a5555?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/370571"
+    },
+    {
+      "user": "glixyl",
+      "date": 1448466285,
+      "content": "Most complete version of Seven DayZ to Mine released yet!  Boss encounters, Mutant Lab, Police Station, Fire Station all generate procedurally.  New server tools with commands!",
+      "avatar": "http://www.gravatar.com/avatar/634368c2ecad5a77904fe106db1a5555?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/370045"
+    },
+    {
+      "user": "glixyl",
+      "date": 1448466201,
+      "content": "Updated to version 666PR3",
+      "avatar": "http://www.gravatar.com/avatar/634368c2ecad5a77904fe106db1a5555?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/7-dayz-to-mine.621982/changelog/211783"
+    },
+    {
+      "user": "glixyl",
+      "date": 1446818008,
+      "content": "ULTRA version now available with the latest shader technology.  Requires powerful computer.  Windows and Mac shaders included.  Select 666PR2-ULTRA from Technic launcher modpack options.",
+      "avatar": "http://www.gravatar.com/avatar/634368c2ecad5a77904fe106db1a5555?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/355907"
+    },
+    {
+      "user": "glixyl",
+      "date": 1446509162,
+      "content": "Updated to version 666PR2",
+      "avatar": "http://www.gravatar.com/avatar/634368c2ecad5a77904fe106db1a5555?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/7-dayz-to-mine.621982/changelog/201720"
+    },
+    {
+      "user": "glixyl",
+      "date": 1446251955,
+      "content": "Updated to version 666PR1",
+      "avatar": "http://www.gravatar.com/avatar/634368c2ecad5a77904fe106db1a5555?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/7-dayz-to-mine.621982/changelog/200340"
+    },
+    {
+      "user": "glixyl",
+      "date": 1446125656,
+      "content": "7 DayZ to Mine Halloween Update coming October 30th.  Chests guarded by many types of zombies filled with loot now spawn in procedurally generated cities and fortresses.  Read http://glixyl.org for more information.",
+      "avatar": "http://www.gravatar.com/avatar/634368c2ecad5a77904fe106db1a5555?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/350482"
+    }
+  ]
+}

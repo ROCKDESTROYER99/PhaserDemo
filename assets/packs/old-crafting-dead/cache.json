@@ -1,0 +1,29 @@
+{
+  "name": "old-crafting-dead",
+  "displayName": "Old Crafting Dead: Cure",
+  "url": "http://master.dl.sourceforge.net/project/crafting-dead-cure/old-crafting-dead-cure.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/old-crafting-dead.788601",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/788601.png?1460432530",
+    "md5": "36e06c1f2905adb7a1ac7c113cd8f55a"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/788601.png?1460432530",
+    "md5": "4c560d8021b1ab7b1b45b8f6f284994d"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/788601.jpg?1460432530",
+    "md5": "d9c904f4ef820cc1e87052b45dbf6109"
+  },
+  "minecraft": "1.5.2",
+  "version": "2.4.4",
+  "description": "Full credit for this modpack goes to f3rullo14, I\u0027m just reuploading the Cure version because you cant downgrade from Aftermath to Cure.",
+  "ratings": 33,
+  "runs": 76058,
+  "downloads": 24745,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

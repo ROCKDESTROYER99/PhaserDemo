@@ -1,0 +1,65 @@
+{
+  "name": "the-sims-craft-modpack-serie",
+  "displayName": "The Sims Craft Modpack Serie",
+  "url": "https://www.dropbox.com/s/bktx1ijqk2oovv1/The%20Sims%20Craft.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/the-sims-craft-modpack-serie.595490",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/595490.png?1434922984",
+    "md5": "819e72c661f63f6981cbfbbb65a70092"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/595490.png?1434922984",
+    "md5": "60f2164ea81c50be710eba7d51f8f055"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/595490.jpg?1434922984",
+    "md5": "9512a575f127c6c9df0b29eed6ec1dae"
+  },
+  "minecraft": "1.7.10",
+  "version": "0.5",
+  "description": "Este modpack foi criado para uma serie pelo authenticgames e recentemente ele liberou para usarmos então aproveitem tentarei atualiza-lo sempre que houver um mod novo",
+  "ratings": 22,
+  "runs": 155556,
+  "downloads": 27108,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "wandelsrju",
+      "date": 1432558173,
+      "content": "Updated to version 0.5",
+      "avatar": "http://crafatar.com/avatars/Wandelsrju?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-modpack-serie.595490/changelog/107255"
+    },
+    {
+      "user": "wandelsrju",
+      "date": 1425669865,
+      "content": "Updated to version 0.4",
+      "avatar": "http://crafatar.com/avatars/Wandelsrju?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-modpack-serie.595490/changelog/51364"
+    },
+    {
+      "user": "wandelsrju",
+      "date": 1425564198,
+      "content": "Updated to version 0.3",
+      "avatar": "http://crafatar.com/avatars/Wandelsrju?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-modpack-serie.595490/changelog/50217"
+    },
+    {
+      "user": "wandelsrju",
+      "date": 1424438843,
+      "content": "Updated to version 0.2",
+      "avatar": "http://crafatar.com/avatars/Wandelsrju?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-modpack-serie.595490/changelog/39219"
+    },
+    {
+      "user": "wandelsrju",
+      "date": 1424370649,
+      "content": "Updated to version 0.1",
+      "avatar": "http://crafatar.com/avatars/Wandelsrju?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-sims-craft-modpack-serie.595490/changelog/38642"
+    }
+  ]
+}

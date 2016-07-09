@@ -1,0 +1,100 @@
+{
+  "name": "the-dead-world-official",
+  "displayName": "The Dead World OFFICIAL",
+  "url": "https://www.dropbox.com/s/4hoa3vr45m6gitw/modpack.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/the-dead-world-official.780017",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/780017.png?1459201740",
+    "md5": "6579ea6cb11714bfec63dc9db90dc268"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/780017.png?1459201740",
+    "md5": "51e3958a7433578fa1545ddebc3ad718"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/780017.jpg?1459201740",
+    "md5": "edfbf50f3235a0a8dbff580529457b81"
+  },
+  "minecraft": "1.7.10",
+  "version": "0.2.1",
+  "description": "The most challenging apocalypse modpack out there.",
+  "ratings": 5,
+  "runs": 10749,
+  "downloads": 5477,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "Opptitronica",
+      "date": 1459108608,
+      "content": "Updated to version 0.2.1",
+      "avatar": "http://crafatar.com/avatars/Pulchra_PurePBR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-dead-world-official.780017/changelog/271322"
+    },
+    {
+      "user": "Opptitronica",
+      "date": 1459100478,
+      "content": "Fixing the modpack once again due to recipe conflictions ;-;",
+      "avatar": "http://crafatar.com/avatars/Pulchra_PurePBR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/466837"
+    },
+    {
+      "user": "Opptitronica",
+      "date": 1458942908,
+      "content": "Updated to version 0.2.0",
+      "avatar": "http://crafatar.com/avatars/Pulchra_PurePBR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-dead-world-official.780017/changelog/270199"
+    },
+    {
+      "user": "Opptitronica",
+      "date": 1457128582,
+      "content": "Updated to version 0.1.9",
+      "avatar": "http://crafatar.com/avatars/Pulchra_PurePBR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-dead-world-official.780017/changelog/260108"
+    },
+    {
+      "user": "Opptitronica",
+      "date": 1456507282,
+      "content": "Updated to version 0.1.8",
+      "avatar": "http://crafatar.com/avatars/Pulchra_PurePBR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-dead-world-official.780017/changelog/256868"
+    },
+    {
+      "user": "Opptitronica",
+      "date": 1455305443,
+      "content": "Updated to version 0.1.7",
+      "avatar": "http://crafatar.com/avatars/Pulchra_PurePBR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-dead-world-official.780017/changelog/249647"
+    },
+    {
+      "user": "Opptitronica",
+      "date": 1455054103,
+      "content": "Go to the discuss tab and read what I posted.",
+      "avatar": "http://crafatar.com/avatars/Pulchra_PurePBR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/430106"
+    },
+    {
+      "user": "Opptitronica",
+      "date": 1455048435,
+      "content": "Please be patient everyone! The server will be up soon!",
+      "avatar": "http://crafatar.com/avatars/Pulchra_PurePBR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/430027"
+    },
+    {
+      "user": "Opptitronica",
+      "date": 1454963413,
+      "content": "Mega update!!! YES!",
+      "avatar": "http://crafatar.com/avatars/Pulchra_PurePBR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/429231"
+    },
+    {
+      "user": "Opptitronica",
+      "date": 1454963395,
+      "content": "Updated to version 0.1.6",
+      "avatar": "http://crafatar.com/avatars/Pulchra_PurePBR?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/the-dead-world-official.780017/changelog/247844"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "active-magik",
+  "displayName": "Official Crafting Magic",
+  "platformUrl": "http://www.technicpack.net/modpack/active-magik.865491",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/865491.png?1466979054",
+    "md5": "f1d365188b0bcfd9b83b5868df82814c"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/865491.png?1466979054",
+    "md5": "01ab6bf61c7680abdde277380f3f3f3f"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/865491.jpg?1466979054",
+    "md5": "f831d3e9125dc793f44037fcc59213d3"
+  },
+  "minecraft": "1.7.10",
+  "version": "1.0",
+  "solder": "http://mac.neobyte-network.net/api/",
+  "description": "Want to manipulate magic in ways like never before? Well now you can with crafting magic and the community server!",
+  "ratings": 5,
+  "runs": 1511,
+  "downloads": 229,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "146004974793392130",
+  "feed": [
+    {
+      "user": "Neobyte-Network",
+      "date": 1466978054,
+      "content": "WE FIXED IT! Due to our solder being tweaked a little we were able to re-build the modpack under the same slug! Carry on playing guys!!",
+      "avatar": "http://www.gravatar.com/avatar/1bb4b228abf5226df33a5ea6b2210b23?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/530850"
+    }
+  ]
+}

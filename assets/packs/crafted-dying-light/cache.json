@@ -1,0 +1,86 @@
+{
+  "name": "crafted-dying-light",
+  "displayName": "Crafted Dying Light ",
+  "url": "https://www.dropbox.com/s/21jas6evy6glpf5/modpack.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/crafted-dying-light.580739",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/580739.png?1455318523",
+    "md5": "671dda9ac7882ecd5ae6ded7db99b20f"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/580739.png?1455318523",
+    "md5": "289fd20414c02d816f5efc02b6e5a74d"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/580739.jpg?1455318523",
+    "md5": "4ba747c14ded3dd320f9ad4b98f4414b"
+  },
+  "minecraft": "1.7.10",
+  "version": "0.2",
+  "description": "This is my first modpack.It is based on the game  Dying Light .It is on 1.7.10.",
+  "ratings": 42,
+  "runs": 42522,
+  "downloads": 22122,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "LuigiSake",
+      "date": 1427669546,
+      "content": "Sorry for the updating the crafted dying light mod for so long....",
+      "avatar": "http://www.gravatar.com/avatar/ffb62313e4e067d4464ea53833e862ba?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/140705"
+    },
+    {
+      "user": "LuigiSake",
+      "date": 1427669467,
+      "content": "Updated to version 0.2",
+      "avatar": "http://www.gravatar.com/avatar/ffb62313e4e067d4464ea53833e862ba?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/crafted-dying-light.580739/changelog/70013"
+    },
+    {
+      "user": "LuigiSake",
+      "date": 1426635795,
+      "content": "You are the best don\u0027t stop liking,downloading and playing......if you have problems then notice to me that.....",
+      "avatar": "http://www.gravatar.com/avatar/ffb62313e4e067d4464ea53833e862ba?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/124311"
+    },
+    {
+      "user": "LuigiSake",
+      "date": 1424811318,
+      "content": "help.i need your help.you know thediamondminecart then write to him about my modpack.",
+      "avatar": "http://www.gravatar.com/avatar/ffb62313e4e067d4464ea53833e862ba?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/95380"
+    },
+    {
+      "user": "LuigiSake",
+      "date": 1424811221,
+      "content": "if you have any suggestions for mods or something else then write in the comment.it must be like mods like  making it feels like dying light",
+      "avatar": "http://www.gravatar.com/avatar/ffb62313e4e067d4464ea53833e862ba?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/95378"
+    },
+    {
+      "user": "LuigiSake",
+      "date": 1424011621,
+      "content": "Sorry I don\u0027t have Minecraft Premium Account. \u003d(",
+      "avatar": "http://www.gravatar.com/avatar/ffb62313e4e067d4464ea53833e862ba?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/79627"
+    },
+    {
+      "user": "LuigiSake",
+      "date": 1424011524,
+      "content": "For now there is no update.....",
+      "avatar": "http://www.gravatar.com/avatar/ffb62313e4e067d4464ea53833e862ba?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/79624"
+    },
+    {
+      "user": "LuigiSake",
+      "date": 1423152776,
+      "content": "It is my first time making modpacks.",
+      "avatar": "http://www.gravatar.com/avatar/ffb62313e4e067d4464ea53833e862ba?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/63505"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "survivalexpert",
+  "displayName": "SurvivalExpert",
+  "url": "https://dl.dropboxusercontent.com/u/40023583/SurvivalExpert-0.4.zip?dl\u003d1",
+  "platformUrl": "http://www.technicpack.net/modpack/survivalexpert.809903",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/809903.png?1457134369",
+    "md5": "c76174d3a3d372bb0547976958b94ef1"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/809903.png?1457134369",
+    "md5": "009cb8b7ef5dc9010eb7241ad482f62d"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/809903.jpg?1457134369",
+    "md5": "3c322818996133f3b77c3ea5ccdf93a0"
+  },
+  "minecraft": "1.7.10",
+  "version": "0.4",
+  "description": "Bored of usual Minecraft? Bored of all the mod-packs available that are very similar? Want to try something new, something real challenging? Then, this mod-pack might be something for you to try!",
+  "ratings": 3,
+  "runs": 5498,
+  "downloads": 2537,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "SirEctor",
+      "date": 1457134413,
+      "content": "Updated to version 0.4",
+      "avatar": "http://www.gravatar.com/avatar/071319ea141a0eb486577b5a41702c6c?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/survivalexpert.809903/changelog/260159"
+    },
+    {
+      "user": "SirEctor",
+      "date": 1457134191,
+      "content": "We have now updated to version 0.4.\r\nBut somehow there seem to be some issues with getting the update.",
+      "avatar": "http://www.gravatar.com/avatar/071319ea141a0eb486577b5a41702c6c?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/448979"
+    },
+    {
+      "user": "SirEctor",
+      "date": 1456626747,
+      "content": "Updated to version 0.3",
+      "avatar": "http://www.gravatar.com/avatar/071319ea141a0eb486577b5a41702c6c?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/survivalexpert.809903/changelog/257622"
+    },
+    {
+      "user": "SirEctor",
+      "date": 1456626721,
+      "content": "Updated to version 0.2",
+      "avatar": "http://www.gravatar.com/avatar/071319ea141a0eb486577b5a41702c6c?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/survivalexpert.809903/changelog/257453"
+    },
+    {
+      "user": "SirEctor",
+      "date": 1456626694,
+      "content": "Updated to version 0.3",
+      "avatar": "http://www.gravatar.com/avatar/071319ea141a0eb486577b5a41702c6c?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/survivalexpert.809903/changelog/257622"
+    },
+    {
+      "user": "SirEctor",
+      "date": 1456626690,
+      "content": "Updated to version 0.2",
+      "avatar": "http://www.gravatar.com/avatar/071319ea141a0eb486577b5a41702c6c?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/survivalexpert.809903/changelog/257453"
+    },
+    {
+      "user": "SirEctor",
+      "date": 1456625421,
+      "content": "Updated to version 0.1",
+      "avatar": "http://www.gravatar.com/avatar/071319ea141a0eb486577b5a41702c6c?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/survivalexpert.809903/changelog/252108"
+    },
+    {
+      "user": "SirEctor",
+      "date": 1456602431,
+      "content": "Updated to version 0.3",
+      "avatar": "http://www.gravatar.com/avatar/071319ea141a0eb486577b5a41702c6c?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/survivalexpert.809903/changelog/257622"
+    },
+    {
+      "user": "SirEctor",
+      "date": 1456587199,
+      "content": "Updated to version 0.2",
+      "avatar": "http://www.gravatar.com/avatar/071319ea141a0eb486577b5a41702c6c?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/survivalexpert.809903/changelog/257453"
+    }
+  ]
+}

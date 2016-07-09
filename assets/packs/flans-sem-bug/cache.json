@@ -1,0 +1,29 @@
+{
+  "name": "flans-sem-bug",
+  "displayName": "Counter-Craft (Oficial)(SUGM)",
+  "url": "https://cld.pt/dl/download/587e19c4-2ca4-4466-8b6c-909de80580d9/SUFMDKG.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/flans-sem-bug.843611",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/843611.png?1462196393",
+    "md5": "068d2afc7fc76728c930212f2e562c7c"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/843611.png?1462196393",
+    "md5": "e20754966fe7bca66f3bbdba97be50e9"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/843611.jpg?1462196393",
+    "md5": "b565773e454e475ae4bf92422f2b025e"
+  },
+  "minecraft": "1.8",
+  "version": "1.0",
+  "description": "ModPack Oficial Para A Nova Serie Do Canal",
+  "ratings": 4,
+  "runs": 3915,
+  "downloads": 2638,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

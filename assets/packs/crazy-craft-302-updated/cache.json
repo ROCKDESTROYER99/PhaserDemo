@@ -1,0 +1,29 @@
+{
+  "name": "crazy-craft-302-updated",
+  "displayName": "Crazy Craft 3.0.2 (Updated)",
+  "url": "http://vl4.voidswrath.com/release/CrazyCraft%203.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/crazy-craft-302-updated.826875",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.9",
+  "version": "1.0",
+  "description": "Crazy Craft recently Updated",
+  "ratings": 10,
+  "runs": 22943,
+  "downloads": 16967,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

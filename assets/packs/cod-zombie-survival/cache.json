@@ -1,0 +1,29 @@
+{
+  "name": "cod-zombie-survival",
+  "displayName": "Left 4 Dead 2 Zombie survival",
+  "url": "https://dl.dropboxusercontent.com/s/3wddl46vaf0agsr/modpack.zip?dl\u003d1\u0026token_hash\u003dAAElKO_SStakcbYCqGDLTi802ntpjC6yDEJke0Rs_rSRQA",
+  "platformUrl": "http://www.technicpack.net/modpack/cod-zombie-survival.345274",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.6.4",
+  "version": "1.6.4",
+  "description": "survive as if you where in cod",
+  "ratings": 11,
+  "runs": 30602,
+  "downloads": 16403,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

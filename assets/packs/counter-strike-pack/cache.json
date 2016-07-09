@@ -1,0 +1,37 @@
+{
+  "name": "counter-strike-pack",
+  "displayName": "Counter Strike Pack",
+  "url": "https://www.mediafire.com/?839qlfclsaxur2a",
+  "platformUrl": "http://www.technicpack.net/modpack/counter-strike-pack.601130",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/601130.png?1424979883",
+    "md5": "e32025059ec2bb55906088a089e553e9"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/601130.png?1424979883",
+    "md5": "7e17ba919c24087b1c1c3ed2e7a46346"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/601130.jpg?1424979883",
+    "md5": "c40a82b641d0cc7e885257fe15a16b2b"
+  },
+  "minecraft": "1.8",
+  "version": "1.0",
+  "description": "hey guys this modpack will come with a lot of mods and some resoursepacks. and remember to enjoy!",
+  "ratings": 9,
+  "runs": 0,
+  "downloads": 2621,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "svane200",
+      "date": 1424976629,
+      "content": "the mod pack is still on progress",
+      "avatar": "http://www.gravatar.com/avatar/98ed686d817e3233da232b6606be47d9?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/97769"
+    }
+  ]
+}

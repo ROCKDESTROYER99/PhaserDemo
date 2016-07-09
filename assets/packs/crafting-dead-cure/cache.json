@@ -1,0 +1,100 @@
+{
+  "name": "crafting-dead-cure",
+  "displayName": "Crafting Dead Experimental",
+  "url": "http://158.69.25.220/uploads/craftingdead/aftermath/modpack/version-124.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/crafting-dead-cure.167548",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/167548.png?1458495914",
+    "md5": "1c6587489e184bd176ebc2ee79f70147"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/167548.png?1458495914",
+    "md5": "63c30603f41921bb19259fded9f6fdd8"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/167548.jpg?1458495914",
+    "md5": "248510e5c2ef9c5a6cfca91e68ce2f7e"
+  },
+  "minecraft": "1.6.4",
+  "version": "Aftermath 1.2.4",
+  "description": "Getting ready to update with Crafting Dead Aftermath!",
+  "ratings": 843,
+  "runs": 193674,
+  "downloads": 71858,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "f3rullo14",
+      "date": 1458495974,
+      "content": "Experimental Builds will most likely be done in private testing.",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/461144"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1458495944,
+      "content": "Updated to version Aftermath 1.2.4",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-dead-cure.167548/changelog/267541"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1456267021,
+      "content": "Updated to version Aftermath 1.1.9",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-dead-cure.167548/changelog/255696"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1456266995,
+      "content": "Updated to version Aftermath 1.1.8",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-dead-cure.167548/changelog/255695"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1456192247,
+      "content": "Updated to version Aftermath 1.1.7",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-dead-cure.167548/changelog/255325"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1453484925,
+      "content": "Updated to version Aftermath 1.1.4",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-dead-cure.167548/changelog/238635"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1452904613,
+      "content": "Version 1.1.2 is pre-released here! Includes Bukkit API",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/408447"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1452904402,
+      "content": "Updated to version Aftermath 1.1.2",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-dead-cure.167548/changelog/235120"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1452712027,
+      "content": "Updated to version Aftermath 1.1.0",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-dead-cure.167548/changelog/234085"
+    },
+    {
+      "user": "f3rullo14",
+      "date": 1452216702,
+      "content": "Updated to version Aftermath 1.0.8",
+      "avatar": "http://crafatar.com/avatars/F3RULLO14?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-dead-cure.167548/changelog/231452"
+    }
+  ]
+}

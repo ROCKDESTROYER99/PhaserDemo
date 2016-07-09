@@ -1,0 +1,100 @@
+{
+  "name": "new-crazy-craft-22",
+  "displayName": "Moddednetwork 2.2",
+  "url": "http://repo.crazyscraft.com/modpack/crazycraftfix.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/new-crazy-craft-22.514485",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/514485.png?1465825406",
+    "md5": "dc75a16378a3453c62b9a2757438a055"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/514485.png?1465825406",
+    "md5": "d840ebb1606170134791b07c59e55269"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/514485.jpg?1465825406",
+    "md5": "05645998f47520dabd92a586c40fa7e3"
+  },
+  "minecraft": "1.6.4",
+  "version": "2.3",
+  "description": "Moddednetwork 2.2",
+  "ratings": 708,
+  "runs": 3365376,
+  "downloads": 408085,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "133754695238942720",
+  "feed": [
+    {
+      "user": "runescapejon",
+      "date": 1465424494,
+      "content": "Check out our new modpack ModdedNetwork 2.4 http://bit.ly/1Yf7sWQ",
+      "avatar": "http://crafatar.com/avatars/runescapejon?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/519417"
+    },
+    {
+      "user": "runescapejon",
+      "date": 1464790695,
+      "content": "Change the donation store website to buy.moddednetwork.com",
+      "avatar": "http://crafatar.com/avatars/runescapejon?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/514381"
+    },
+    {
+      "user": "runescapejon",
+      "date": 1463763100,
+      "content": "Fixed download link sorry for that long wait we had website issues but its all fixed now",
+      "avatar": "http://crafatar.com/avatars/runescapejon?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/505843"
+    },
+    {
+      "user": "brocker12345",
+      "date": 1454201243,
+      "content": "Updated to version 2.3",
+      "avatar": "http://www.gravatar.com/avatar/5906950b0892ea8cff13da2619ddacfb?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/new-crazy-craft-22.514485/changelog/243264"
+    },
+    {
+      "user": "runescapejon",
+      "date": 1443735512,
+      "content": "NEW MODPACK! Modded Network 2.3 server coming out soon",
+      "avatar": "http://crafatar.com/avatars/runescapejon?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/328806"
+    },
+    {
+      "user": "runescapejon",
+      "date": 1440596159,
+      "content": "Want to play our vanilla server? Join mc.moddednetwork.com!",
+      "avatar": "http://crafatar.com/avatars/runescapejon?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/297890"
+    },
+    {
+      "user": "runescapejon",
+      "date": 1437408803,
+      "content": "Reverting to Crazycraft 2.2 until bugs in 3.0 are fixed 65% off donation store. Ends at the end of the month ",
+      "avatar": "http://crafatar.com/avatars/runescapejon?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/259659"
+    },
+    {
+      "user": "brocker12345",
+      "date": 1437408163,
+      "content": "Reverting to Crazycraft 2.2 until bugs in 3.0 are fixed\r\n\r\n65% off donation store. Ends at the end of the month",
+      "avatar": "http://www.gravatar.com/avatar/5906950b0892ea8cff13da2619ddacfb?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/259647"
+    },
+    {
+      "user": "brocker12345",
+      "date": 1437408117,
+      "content": "Updated to version 2.2",
+      "avatar": "http://www.gravatar.com/avatar/5906950b0892ea8cff13da2619ddacfb?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/new-crazy-craft-22.514485/changelog/143248"
+    },
+    {
+      "user": "brocker12345",
+      "date": 1437408023,
+      "content": "Updated to version 3.6",
+      "avatar": "http://www.gravatar.com/avatar/5906950b0892ea8cff13da2619ddacfb?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/new-crazy-craft-22.514485/changelog/143245"
+    }
+  ]
+}

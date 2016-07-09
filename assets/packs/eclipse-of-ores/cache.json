@@ -1,0 +1,100 @@
+{
+  "name": "eclipse-of-ores",
+  "displayName": "Eclipse Of Ores",
+  "url": "http://www.baby-nation.com/download/SlimeU/Eclipse_Of_Ores.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/eclipse-of-ores.593619",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/593619.png?1438245828",
+    "md5": "c0a20a811f6bb6c3c5f5feeb1f58cfe0"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/593619.png?1438245828",
+    "md5": "19861ac09bf17136bba2e05f8201f96c"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/593619.jpg?1438245828",
+    "md5": "a7c458f62978d42465efcae9e6602ad4"
+  },
+  "minecraft": "1.7.10",
+  "version": "v.1.2",
+  "description": "Eclipse of Ores adds 100+ Ores that can be used to make swords, armor and much more! If you are bored of Vanilla Ores (Diamond, Iron), You should definitley play this epic modpack",
+  "ratings": 20,
+  "runs": 74478,
+  "downloads": 26282,
+  "forceDir": false,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "SlimeU",
+      "date": 1425291251,
+      "content": "New Modpack For Griefers! Link:http://www.technicpack.net/modpack/evolution-of-trolls.604303",
+      "avatar": "http://crafatar.com/avatars/SlimeU?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/103346"
+    },
+    {
+      "user": "SlimeU",
+      "date": 1425192723,
+      "content": "Download Link Is Down. Sorry for that, and it will be fixed soon",
+      "avatar": "http://crafatar.com/avatars/SlimeU?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/101646"
+    },
+    {
+      "user": "SlimeU",
+      "date": 1425108363,
+      "content": "New Modpack For Builders! Link:http://www.technicpack.net/modpack/creative-chronics.602248",
+      "avatar": "http://crafatar.com/avatars/SlimeU?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/99792"
+    },
+    {
+      "user": "SlimeU",
+      "date": 1425017311,
+      "content": "Updated to version v.1.2",
+      "avatar": "http://crafatar.com/avatars/SlimeU?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/eclipse-of-ores.593619/changelog/45000"
+    },
+    {
+      "user": "SlimeU",
+      "date": 1424934071,
+      "content": "Have Mod Suggestions? Post Here!",
+      "avatar": "http://crafatar.com/avatars/SlimeU?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/97307"
+    },
+    {
+      "user": "SlimeU",
+      "date": 1424933237,
+      "content": "New Modpack Released! Mario Themed Modpack:http://www.technicpack.net/modpack/new-super-craft-bros.600833",
+      "avatar": "http://crafatar.com/avatars/SlimeU?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/97301"
+    },
+    {
+      "user": "SlimeU",
+      "date": 1424780725,
+      "content": "Updated to version v.1.1",
+      "avatar": "http://crafatar.com/avatars/SlimeU?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/eclipse-of-ores.593619/changelog/42851"
+    },
+    {
+      "user": "SlimeU",
+      "date": 1424486143,
+      "content": "Next Update Coming Tomorrow! Will add some more mods and I will organize some things.",
+      "avatar": "http://crafatar.com/avatars/SlimeU?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/88977"
+    },
+    {
+      "user": "SlimeU",
+      "date": 1424164844,
+      "content": "Updated to version v.1.01",
+      "avatar": "http://crafatar.com/avatars/SlimeU?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/eclipse-of-ores.593619/changelog/36864"
+    },
+    {
+      "user": "SlimeU",
+      "date": 1424161956,
+      "content": "Updated to version v.1.0",
+      "avatar": "http://crafatar.com/avatars/SlimeU?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/eclipse-of-ores.593619/changelog/36852"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "name": "zombieapocalypse-warfare-v8",
+  "displayName": "ZombieApocalypse Warfare V8",
+  "url": "https://dl.dropbox.com/s/jromhpbqngkucu3/zombieapocalypse.zip",
+  "platformUrl": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/844230.png?1463904612",
+    "md5": "2ff3bdbcc52ac1e1ca58af400b7cd4b5"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/844230.png?1463904612",
+    "md5": "9cd753ad854e1004b2b8d7a46dbfd52b"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/844230.jpg?1463904612",
+    "md5": "5ba3551f726fd6895f9761c2e743939d"
+  },
+  "minecraft": "1.7.10",
+  "version": "2.0",
+  "description": "Play with your Friends against the Zombies and the hunting Players",
+  "ratings": 6,
+  "runs": 10033,
+  "downloads": 2937,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "NiCo0o3112",
+      "date": 1466248021,
+      "content": "Updated to version 2.0",
+      "avatar": "http://www.gravatar.com/avatar/9fbc3fb29a109f905f3f28c3417e4432?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230/changelog/307177"
+    },
+    {
+      "user": "NiCo0o3112",
+      "date": 1465646410,
+      "content": "Updated to version 1.95",
+      "avatar": "http://www.gravatar.com/avatar/9fbc3fb29a109f905f3f28c3417e4432?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230/changelog/304078"
+    },
+    {
+      "user": "NiCo0o3112",
+      "date": 1465396387,
+      "content": "Updated to version 1.94",
+      "avatar": "http://www.gravatar.com/avatar/9fbc3fb29a109f905f3f28c3417e4432?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230/changelog/302967"
+    },
+    {
+      "user": "NiCo0o3112",
+      "date": 1465383576,
+      "content": "Updated to version 1.93",
+      "avatar": "http://www.gravatar.com/avatar/9fbc3fb29a109f905f3f28c3417e4432?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230/changelog/302919"
+    },
+    {
+      "user": "NiCo0o3112",
+      "date": 1465320824,
+      "content": "Updated to version 1.92",
+      "avatar": "http://www.gravatar.com/avatar/9fbc3fb29a109f905f3f28c3417e4432?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230/changelog/302652"
+    },
+    {
+      "user": "NiCo0o3112",
+      "date": 1465295977,
+      "content": "Updated to version 1.91",
+      "avatar": "http://www.gravatar.com/avatar/9fbc3fb29a109f905f3f28c3417e4432?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230/changelog/302512"
+    },
+    {
+      "user": "NiCo0o3112",
+      "date": 1465295919,
+      "content": "Updated to version 1.9",
+      "avatar": "http://www.gravatar.com/avatar/9fbc3fb29a109f905f3f28c3417e4432?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230/changelog/302511"
+    },
+    {
+      "user": "NiCo0o3112",
+      "date": 1465208725,
+      "content": "Updated to version 1.8",
+      "avatar": "http://www.gravatar.com/avatar/9fbc3fb29a109f905f3f28c3417e4432?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230/changelog/302102"
+    },
+    {
+      "user": "NiCo0o3112",
+      "date": 1465156710,
+      "content": "Updated to version 1.7",
+      "avatar": "http://www.gravatar.com/avatar/9fbc3fb29a109f905f3f28c3417e4432?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230/changelog/301881"
+    },
+    {
+      "user": "NiCo0o3112",
+      "date": 1465124337,
+      "content": "Updated to version 1.6",
+      "avatar": "http://www.gravatar.com/avatar/9fbc3fb29a109f905f3f28c3417e4432?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/modpack/zombieapocalypse-warfare-v8.844230/changelog/301623"
+    }
+  ]
+}

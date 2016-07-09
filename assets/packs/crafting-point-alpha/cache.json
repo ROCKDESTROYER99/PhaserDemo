@@ -1,0 +1,100 @@
+{
+  "name": "crafting-point-alpha",
+  "displayName": " The Forsaken (Exp.)",
+  "url": "https://phoenixunited.box.com/shared/static/bzw3wr5fu3ji53kaol6d15cm7b12jzi6.rar",
+  "platformUrl": "http://www.technicpack.net/modpack/crafting-point-alpha.720295",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/720295.png?1461539392",
+    "md5": "7ac445c9c2748e2e3a189dd16cd64cba"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/720295.png?1461539392",
+    "md5": "44ae342295a61e909bb54dc80edeca99"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/720295.jpg?1461539392",
+    "md5": "11fffc61cb3626e740e58b24f29f30d7"
+  },
+  "minecraft": "1.8",
+  "version": "2.0",
+  "description": "The Forsaken; Fight, build, Survive.",
+  "ratings": 31,
+  "runs": 56770,
+  "downloads": 23965,
+  "forceDir": false,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "Kaneki_K",
+      "date": 1461597736,
+      "content": "The update 2.0v is just a Version change to 1.8 (Dont worry about the modpack working we\u0027re working on sending in the full pack).",
+      "avatar": "http://crafatar.com/avatars/Kaneki_K?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/488000"
+    },
+    {
+      "user": "sandgamer1",
+      "date": 1461538817,
+      "content": "Updated to version 2.0",
+      "avatar": "http://crafatar.com/avatars/Sandgamer1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-point-alpha.720295/changelog/283688"
+    },
+    {
+      "user": "sandgamer1",
+      "date": 1461346846,
+      "content": "Updated to version 1.9.9",
+      "avatar": "http://crafatar.com/avatars/Sandgamer1?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-point-alpha.720295/changelog/282352"
+    },
+    {
+      "user": "Kaneki_K",
+      "date": 1459804599,
+      "content": "If anyone is still interested in helping bring back to the mod and server please contact me on skype: kuro_to_shiro_ or my email Anarchistwolf@gmail.com (Im looking back into creating a hosting company and once again igniting the fire...",
+      "avatar": "http://crafatar.com/avatars/Kaneki_K?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/status/473465"
+    },
+    {
+      "user": "Kaneki_K",
+      "date": 1442092446,
+      "content": "Updated to version 1.9.5",
+      "avatar": "http://crafatar.com/avatars/Kaneki_K?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-point-alpha.720295/changelog/176568"
+    },
+    {
+      "user": "Kaneki_K",
+      "date": 1442017160,
+      "content": "Updated to version 1.9",
+      "avatar": "http://crafatar.com/avatars/Kaneki_K?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-point-alpha.720295/changelog/175534"
+    },
+    {
+      "user": "Kaneki_K",
+      "date": 1441940616,
+      "content": "Updated to version 1.9",
+      "avatar": "http://crafatar.com/avatars/Kaneki_K?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-point-alpha.720295/changelog/175534"
+    },
+    {
+      "user": "Kaneki_K",
+      "date": 1441920684,
+      "content": "Updated to version 1.8",
+      "avatar": "http://crafatar.com/avatars/Kaneki_K?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-point-alpha.720295/changelog/175422"
+    },
+    {
+      "user": "Kaneki_K",
+      "date": 1441652205,
+      "content": "Updated to version 1.7",
+      "avatar": "http://crafatar.com/avatars/Kaneki_K?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-point-alpha.720295/changelog/174004"
+    },
+    {
+      "user": "Kaneki_K",
+      "date": 1441490878,
+      "content": "Updated to version 1.6",
+      "avatar": "http://crafatar.com/avatars/Kaneki_K?size\u003d60\u0026helm",
+      "url": "http://www.technicpack.net/modpack/crafting-point-alpha.720295/changelog/172908"
+    }
+  ]
+}
